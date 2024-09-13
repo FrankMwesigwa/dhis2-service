@@ -1,0 +1,1107 @@
+Data sent successfully to DHIS2 for facility ID a1OVdGUzoJ4, Facility: Budhaya Health Centre II
+Data sent successfully to DHIS2 for facility ID a2a7qNyJg9j, Facility: Otong Health Centre II
+Data sent successfully to DHIS2 for facility ID a2d3lpVigxP, Facility: Wakawaka Health Centre II
+Data sent successfully to DHIS2 for facility ID a4QeS81YJ8z, Facility: Olinga Health Centre II
+Data sent successfully to DHIS2 for facility ID a5pTJ9dZfZV, Facility: Pogo Health Centre II
+Data sent successfully to DHIS2 for facility ID a6mnx3ok5NB, Facility: St. Elizabeth Kibanga Ihu Health Centre III
+Data sent successfully to DHIS2 for facility ID A7BAVMsywaQ, Facility: Kawoko Muslim Health Centre III
+Data sent successfully to DHIS2 for facility ID a7iTUfqFKUY, Facility: Busota Health Centre III
+Data sent successfully to DHIS2 for facility ID a7lnM83DJGy, Facility: Itojo General Hospital
+Data sent successfully to DHIS2 for facility ID a8109gv7MMz, Facility: Kapyanga (Bugubo) Health Centre II
+Data sent successfully to DHIS2 for facility ID a9vGVj3Ftt9, Facility: Butaare Health Centre III
+Data sent successfully to DHIS2 for facility ID aa2fHwZinjk, Facility: Kawaga Health Centre II
+Data sent successfully to DHIS2 for facility ID ab4OBBdke1q, Facility: Atipe Health Centre III
+Data sent successfully to DHIS2 for facility ID Ab89aosJCg9, Facility: Rugarama Health Centre III
+Data sent successfully to DHIS2 for facility ID aBPPyVGRNyh, Facility: Namaira Health Centre II
+Data sent successfully to DHIS2 for facility ID Abzyw3gTHdQ, Facility: Buyanja (Gomba) Health Centre II
+Data sent successfully to DHIS2 for facility ID ac4kdbslWxB, Facility: Muggi Health Centre II
+Data sent successfully to DHIS2 for facility ID acTilIN9qRy, Facility: Nyadri Health Centre III
+Data sent successfully to DHIS2 for facility ID acuu3ktUO4t, Facility: Rubare Health Centre IV
+Data sent successfully to DHIS2 for facility ID aEvCseBkEDr, Facility: Afoji Health Centre II
+Data sent successfully to DHIS2 for facility ID aFgrVHVDqoZ, Facility: Amuru Lacor Health Centre III
+Data sent successfully to DHIS2 for facility ID aFLv0Mbd84E, Facility: Gwere Health Centre II
+Data sent successfully to DHIS2 for facility ID agJr4JxEd5N, Facility: Nyanga Health Centre III
+Data sent successfully to DHIS2 for facility ID agQsp6hFdZa, Facility: St. Mechtilda Kitaasa Health Centre III
+Data sent successfully to DHIS2 for facility ID agZi79Er2GX, Facility: Bwiwula Health Centre II
+Data sent successfully to DHIS2 for facility ID ahIE2es9s39, Facility: Ngomoromo Health Centre II
+Data sent successfully to DHIS2 for facility ID aHrBkRnFBmb, Facility: Bwondha Health Centre II
+Data sent successfully to DHIS2 for facility ID aifkaPWfQez, Facility: Kyamwasha Health Centre III
+Data sent successfully to DHIS2 for facility ID aileSfY6owN, Facility: Pijoke Health Centre III
+Data sent successfully to DHIS2 for facility ID ajaZHwTza6B, Facility: Kabigi Muslim Health Centre III
+Data sent successfully to DHIS2 for facility ID ajuXeILzSDT, Facility: Matiki Health Centre III
+Data sent successfully to DHIS2 for facility ID aK4gwJ4rOvw, Facility: Wangobo Health Centre II
+Data sent successfully to DHIS2 for facility ID akPhsrP77Ae, Facility: Nkombe (Imanyiro) Health Centre III
+Data sent successfully to DHIS2 for facility ID aLQq5QTDV2s, Facility: St. Monica Katende Health Centre III
+Data sent successfully to DHIS2 for facility ID am0vQYNJohR, Facility: Jengari Health Centre II
+Data sent successfully to DHIS2 for facility ID an1CZjQ65h7, Facility: Wakisi Health Centre III
+Data sent successfully to DHIS2 for facility ID analluLubfV, Facility: Busabaga Health Centre III
+Data sent successfully to DHIS2 for facility ID anOxR20hDCC, Facility: Kituntu Health Centre III
+Data sent successfully to DHIS2 for facility ID aNW8E8PWwck, Facility: Palabek-Gem Health Centre III
+Data sent successfully to DHIS2 for facility ID ao6V9sOp2DA, Facility: Malongo Health Centre III
+Data sent successfully to DHIS2 for facility ID aod4x8edzQu, Facility: Paloga Health Centre III
+Data sent successfully to DHIS2 for facility ID aoNyMeWn6YC, Facility: Kitovu Health Centre II
+Data sent successfully to DHIS2 for facility ID aoYoN1wkWDw, Facility: Metu Health Centre III
+Data sent successfully to DHIS2 for facility ID ApVyWDny4Sz, Facility: Akangi Health Centre II
+Data sent successfully to DHIS2 for facility ID aPw8BIgtIDF, Facility: Nsamu/Kyali Health Centre III
+Data sent successfully to DHIS2 for facility ID aPXQhyTI3oq, Facility: Bute Health Centre II
+Data sent successfully to DHIS2 for facility ID apYhAqPQauy, Facility: Pamaka Health Centre III
+Data sent successfully to DHIS2 for facility ID ar6iOa5kNV5, Facility: Kyemeire Health Centre II
+Data sent successfully to DHIS2 for facility ID arIRCXLdLpv, Facility: Magada Health Centre II
+Data sent successfully to DHIS2 for facility ID aRRsrxSesDy, Facility: Kewerimidde Health Centre II
+Data sent successfully to DHIS2 for facility ID aRxadClWcFM, Facility: Ogur Health Centre IV
+Data sent successfully to DHIS2 for facility ID aRZJAIxQZ53, Facility: Kaina Health Centre III
+Data sent successfully to DHIS2 for facility ID aRZTDpzTYep, Facility: Nkokonjeru Health Centre II
+Data sent successfully to DHIS2 for facility ID atESdVRBAaA, Facility: Nakigunju Health Centre II
+Data sent successfully to DHIS2 for facility ID atLLqk4WxXL, Facility: Buluwe Health Centre II
+Data sent successfully to DHIS2 for facility ID ATo2Nmy2Y1Y, Facility: Lurujo Health Centre III
+Data sent successfully to DHIS2 for facility ID aU7ebDxE9vM, Facility: Mbulamuti Health Centre III
+Data sent successfully to DHIS2 for facility ID aULXp2H2LGI, Facility: Kitanda Health Centre III
+Data sent successfully to DHIS2 for facility ID aVK5pJX1FPP, Facility: Kafumu Health Centre II
+Data sent successfully to DHIS2 for facility ID awjedeMiWo3, Facility: Pacilo Health Centre II
+Data sent successfully to DHIS2 for facility ID aX1tLCw6glR, Facility: Bugungu Health Centre II
+Data sent successfully to DHIS2 for facility ID ayit7T8VnwQ, Facility: Busaala Health Centre III
+Data sent successfully to DHIS2 for facility ID bah36yY0P6q, Facility: Bobi Health Centre III
+Data sent successfully to DHIS2 for facility ID bHzMYiEE7ng, Facility: Ntawawula Health Centre II
+Data sent successfully to DHIS2 for facility ID BIiLhy7eYLl, Facility: Makonge Health Centre III
+Data sent successfully to DHIS2 for facility ID biQmsTGoRmT, Facility: Gbalala Health Centre II
+Data sent successfully to DHIS2 for facility ID bLzMzz5fzGQ, Facility: Anaka Health Centre II
+Data sent successfully to DHIS2 for facility ID BNsfT2yL0kW, Facility: Kayango Health Centre III
+Data sent successfully to DHIS2 for facility ID BP88BEDdnP2, Facility: Kirinya (Budhaya) Health Centre II
+Data sent successfully to DHIS2 for facility ID bq8JZONb0MA, Facility: Oleba Health Centre III
+Data sent successfully to DHIS2 for facility ID bs5xBJK6Qrb, Facility: Namayemba Safe Motherhood Health Centre II
+Data sent successfully to DHIS2 for facility ID btRLfMJVynr, Facility: Cohwe Health Centre II
+Data sent successfully to DHIS2 for facility ID bV0ljliUSvK, Facility: Bugiri Mayuge Health Centre III
+Data sent successfully to DHIS2 for facility ID bWOR5fD8vdv, Facility: Kavule (Buikwe) Health Centre II
+Data sent successfully to DHIS2 for facility ID BXdPG3XpRk8, Facility: Nabirumba Health Centre III
+Data sent successfully to DHIS2 for facility ID C8i6PL7Rmim, Facility: Odokonyero Health Centre II
+Data sent successfully to DHIS2 for facility ID cacYqraIAeB, Facility: Lobule Health Centre III
+Data sent successfully to DHIS2 for facility ID CB9zwzOqEbX, Facility: Sekiwunga Health Centre III
+Data sent successfully to DHIS2 for facility ID cBT4skCUyC3, Facility: Busira Health Centre II
+Data sent successfully to DHIS2 for facility ID CcCjT4HFRuy, Facility: Mpenja Health Centre III
+Data sent successfully to DHIS2 for facility ID cK5zkZIUFsN, Facility: Buikwe Health Centre III
+Data sent successfully to DHIS2 for facility ID CKPFNnfrvbR, Facility: Kyafoora Health Centre II
+Data sent successfully to DHIS2 for facility ID CNG62dd4mE1, Facility: Bugiri General Hospital
+Data sent successfully to DHIS2 for facility ID Co0DLFVgmGz, Facility: Butoolo Health Centre III
+Data sent successfully to DHIS2 for facility ID cOpgsVK1JpT, Facility: Buhanama Health Centre III
+Data sent successfully to DHIS2 for facility ID CqBb08p28JJ, Facility: Makindu Health Centre III
+Data sent successfully to DHIS2 for facility ID cqExOqLOqNY, Facility: Ori Health Centre II
+Data sent successfully to DHIS2 for facility ID CSpqU3MIZuC, Facility: Rwashamaire Health Centre IV
+Data sent successfully to DHIS2 for facility ID cyWgf6Xmo8Z, Facility: Ngai Health Centre III
+Data sent successfully to DHIS2 for facility ID d6LKSCl9Pq7, Facility: Kiyunga Health Centre III
+Data sent successfully to DHIS2 for facility ID DaUdxUUVqCJ, Facility: Wandegeya Health Centre II
+Data sent successfully to DHIS2 for facility ID dBJMmXzJwYi, Facility: Baitambogwe Health Centre III
+Data sent successfully to DHIS2 for facility ID dIkUObxFycV, Facility: Nanderema Health Centre II
+Data sent successfully to DHIS2 for facility ID Dil7ITnaKlq, Facility: Kabizi-Bugoba Health Centre II
+Data sent successfully to DHIS2 for facility ID DjgbWcdzpkC, Facility: Kasolwe Health Centre II
+Data sent successfully to DHIS2 for facility ID DLHAeBCBkdX, Facility: Mother Kevin HC III
+Data sent successfully to DHIS2 for facility ID Dpv2z5tBsQK, Facility: Dufile Health Centre III
+Data sent successfully to DHIS2 for facility ID dqVrBFvJg3n, Facility: Oluvu Health Centre III
+Data sent successfully to DHIS2 for facility ID dRVlZtrIfcM, Facility: Kigangazzi Health Centre II
+Data sent successfully to DHIS2 for facility ID dTLwhS7Lpm2, Facility: Iterero Health Centre II
+Data sent successfully to DHIS2 for facility ID DUDZxVy6oKw, Facility: Namoni Health Centre II
+Data sent successfully to DHIS2 for facility ID e8DyC8c45AO, Facility: Rwoho Health Centre III
+Data sent successfully to DHIS2 for facility ID E9a1cflRJZf, Facility: Abala Health Centre III
+Data sent successfully to DHIS2 for facility ID ECSAxXG3JMh, Facility: Bupadhengo Health Centre III
+Data sent successfully to DHIS2 for facility ID ede2KlZ1gtL, Facility: Lanenober Health Centre III
+Data sent successfully to DHIS2 for facility ID EEDxS26updx, Facility: Aya Health Centre III
+Data sent successfully to DHIS2 for facility ID eGnEYY7m8vD, Facility: Kiyunga Bukakande Health Centre II
+Data sent successfully to DHIS2 for facility ID eKAZwpYo3r5, Facility: Padwot Midyere Health Centre III
+Data sent successfully to DHIS2 for facility ID EoHnqQ9tho5, Facility: Kasutaime Health Centre II
+Data sent successfully to DHIS2 for facility ID etgRSvMWbqH, Facility: Bumoozi Health Centre II
+Data sent successfully to DHIS2 for facility ID Eu7L6ZmhA4R, Facility: Kikwayi Health Centre II
+Data sent successfully to DHIS2 for facility ID EYFKJlJa6Mp, Facility: Loinya Health Centre II
+Data sent successfully to DHIS2 for facility ID EYklRtOZrwz, Facility: Anyeke Health Centre IV
+Data sent successfully to DHIS2 for facility ID EZA6XG2Eqra, Facility: Moyo Mission Health Centre IV
+Data sent successfully to DHIS2 for facility ID F3VE0gdRXu1, Facility: Goli Health Centre IV
+Data sent successfully to DHIS2 for facility ID F4phb7m6hiz, Facility: Arra Health Centre II
+Data sent successfully to DHIS2 for facility ID F9CI9eMBhCE, Facility: Nambo Health Centre II
+Data sent successfully to DHIS2 for facility ID FGnMVMPBCLN, Facility: Kitwe Health Centre IV
+Data sent successfully to DHIS2 for facility ID FICwy0lTFNW, Facility: Bugoto Health Centre II
+Data sent successfully to DHIS2 for facility ID FJF7Vx7pjWL, Facility: Masolya Health Centre III
+Data sent successfully to DHIS2 for facility ID fnse10SronT, Facility: Pangira Health Centre II
+Data sent successfully to DHIS2 for facility ID FNTxj1oKTQd, Facility: Lacor-Pabbo Health Centre III
+Data sent successfully to DHIS2 for facility ID FPENxnEHmc7, Facility: Kyando Health Centre II
+Data sent successfully to DHIS2 for facility ID FQETWwqB2VJ, Facility: Eria Health Centre III
+Data sent successfully to DHIS2 for facility ID FyN79so0muD, Facility: Kweyo Health Centre II
+Data sent successfully to DHIS2 for facility ID fznvuJ4HgYn, Facility: Buikwe Kalagala Health Centre II
+Data sent successfully to DHIS2 for facility ID g4MQbbN4oR6, Facility: Nyaravur Health Centre III
+Data sent successfully to DHIS2 for facility ID gBiYU9OJgsv, Facility: Akworo Health Centre III
+Data sent successfully to DHIS2 for facility ID gBVBGJ2p9b3, Facility: Butenga Health Centre IV
+Data sent successfully to DHIS2 for facility ID gid2cWEy2rv, Facility: Bufulubi Prisons Health Centre II
+Data sent successfully to DHIS2 for facility ID gJJhhRiJvSi, Facility: Logoba Health Centre III
+Data sent successfully to DHIS2 for facility ID gMSnZfci97x, Facility: Kifampa Health Centre III
+Data sent successfully to DHIS2 for facility ID gNdlN0CmZX2, Facility: Bulopa Health Centre III
+Data sent successfully to DHIS2 for facility ID gSxv8y8vQ4H, Facility: Gborokolongo Health Centre III
+Data sent successfully to DHIS2 for facility ID GTYUYJ2Ueyu, Facility: Kaluba Health Centre II
+Data sent successfully to DHIS2 for facility ID GUlztXJ4MRg, Facility: Makukuulu Health Centre III
+Data sent successfully to DHIS2 for facility ID gvwH5yT6NrE, Facility: Kagumba Health Centre III
+Data sent successfully to DHIS2 for facility ID gxT5NVatL14, Facility: Buyiga Health Centre III
+Data sent successfully to DHIS2 for facility ID gXxNhBepMX1, Facility: Bugulu Health Centre II
+Data sent successfully to DHIS2 for facility ID H026HbOAZFN, Facility: Padibe Health Centre IV
+Data sent successfully to DHIS2 for facility ID H3WUcWzPtWb, Facility: Tekulu Health Centre III
+Data sent successfully to DHIS2 for facility ID H6IBEU3xYxV, Facility: Kiringente Epi Health Centre II
+Data sent successfully to DHIS2 for facility ID H6KWp7l4pOe, Facility: Kizigo Health Centre II
+Data sent successfully to DHIS2 for facility ID H9Kdh2eKGyz, Facility: Kayonza (Ntungamo) Health Centre III
+Data sent successfully to DHIS2 for facility ID hkoHNZAApbg, Facility: Kagoggo Health Centre II
+Data sent successfully to DHIS2 for facility ID hPIXVP3f1nP, Facility: Abanya Health Centre II
+Data sent successfully to DHIS2 for facility ID HtDqqOuCfA3, Facility: Kabizi Health Centre II
+Data sent successfully to DHIS2 for facility ID HW6fE9RYBjI, Facility: Bigasa Health Centre III
+Data sent successfully to DHIS2 for facility ID HWKAq88M3aX, Facility: Moyo General Hospital
+Data sent successfully to DHIS2 for facility ID I2psFCABsSs, Facility: Tegot Health Centre II
+Data sent successfully to DHIS2 for facility ID i5CDWEBfo9n, Facility: Atiak Health Centre IV
+Data sent successfully to DHIS2 for facility ID i783Z5CHxyj, Facility: Abela Health Centre III
+Data sent successfully to DHIS2 for facility ID I9nJzN3m8qL, Facility: Agali Health Centre III
+Data sent successfully to DHIS2 for facility ID iIrDj4WIA6O, Facility: Kijomoro Health Centre III
+Data sent successfully to DHIS2 for facility ID iJCZZ9rUZYm, Facility: Ssenyi Health Centre II
+Data sent successfully to DHIS2 for facility ID IkVvGrqJfm0, Facility: Ruhoko Health Centre III
+Data sent successfully to DHIS2 for facility ID imFgSY3OUvZ, Facility: Buwagajjo Health Centre III
+Data sent successfully to DHIS2 for facility ID iTkVbN1IERm, Facility: Bubago Health Centre III
+Data sent successfully to DHIS2 for facility ID ivjYaDU4t3T, Facility: Luzinga Health Centre II
+Data sent successfully to DHIS2 for facility ID iWJI9r3QCDh, Facility: Nyongozi Health Centre II
+Data sent successfully to DHIS2 for facility ID JAPYJGfV0VY, Facility: Koboko General Hospital
+Data sent successfully to DHIS2 for facility ID JlWZ3wAo04I, Facility: Karuruma Health Centre III
+Data sent successfully to DHIS2 for facility ID jLzgzQoTP73, Facility: Besia Health Centre III
+Data sent successfully to DHIS2 for facility ID JNKTABj7P6e, Facility: Ossi Health Centre II
+Data sent successfully to DHIS2 for facility ID joubGoymaJC, Facility: Naminya Health Centre II
+Data sent successfully to DHIS2 for facility ID Js1aBKNVudQ, Facility: Pauma Health Centre II
+Data sent successfully to DHIS2 for facility ID jSNmUpGrQMN, Facility: Sagitu Health Centre II
+Data sent successfully to DHIS2 for facility ID jV5UvqIn4DU, Facility: Erepi Health Centre II
+Data sent successfully to DHIS2 for facility ID jWmjHpZqNtY, Facility: Kaladima Health Centre III
+Data sent successfully to DHIS2 for facility ID k0CvH2xB5Lg, Facility: Aloni Health Centre II
+Data sent successfully to DHIS2 for facility ID K3VuoMDqbif, Facility: Busoga Health Centre II
+Data sent successfully to DHIS2 for facility ID K74ysFimUwH, Facility: Padibe West Health Centre III
+Data sent successfully to DHIS2 for facility ID K7Do3WBvmLa, Facility: Angal Hospital
+Data sent successfully to DHIS2 for facility ID k7sazN1EJ0o, Facility: Ddungi Health Centre II
+Data sent successfully to DHIS2 for facility ID KJ7aFxkGCAs, Facility: Kigaaga (Ngoma) Health Centre II
+Data sent successfully to DHIS2 for facility ID kJ8CMUMloVu, Facility: Okidi Health Centre II
+Data sent successfully to DHIS2 for facility ID kJRTTFJR9io, Facility: Alira Health Centre II
+Data sent successfully to DHIS2 for facility ID kjrZmlTqV89, Facility: Nyarubare Health Centre II
+Data sent successfully to DHIS2 for facility ID kkNYl0r71q6, Facility: Busowa Health Centre II
+Data sent successfully to DHIS2 for facility ID KNuyUySHocg, Facility: Kisozi Health Centre III
+Data sent successfully to DHIS2 for facility ID KPoshqPMs2y, Facility: Bulidha Health Centre III
+Data sent successfully to DHIS2 for facility ID KVr6XH80o39, Facility: Kibuye Health Centre II
+Data sent successfully to DHIS2 for facility ID l25J2D2A6R3, Facility: Guruguru Health Centre II
+Data sent successfully to DHIS2 for facility ID lCEffRvoU53, Facility: Buwaya Health Centre II
+Data sent successfully to DHIS2 for facility ID lF4U1Yzu0Ka, Facility: Mitala-Maria Health Centre III
+Data sent successfully to DHIS2 for facility ID lj4kXX1WxcL, Facility: Paanjala Health Centre II
+Data sent successfully to DHIS2 for facility ID llrIsQDjqka, Facility: Omee I Health Centre II
+Data sent successfully to DHIS2 for facility ID LPjcTTbfcGL, Facility: Okungedi Health Centre II
+Data sent successfully to DHIS2 for facility ID LUBH6P4iI1O, Facility: Bukaleeba Health Centre II
+Data sent successfully to DHIS2 for facility ID LVFyV61bpdi, Facility: Kamuli General Hospital
+Data sent successfully to DHIS2 for facility ID Lw8YR0FJdCr, Facility: Lefori Health Centre III
+Data sent successfully to DHIS2 for facility ID lWTcvquVxC0, Facility: Kamuli Youth Centre
+Data sent successfully to DHIS2 for facility ID LxIzdSisWRN, Facility: Gbari Health Centre II
+Data sent successfully to DHIS2 for facility ID m6v8B2bP3ar, Facility: Kiseitaka Health Centre II
+Data sent successfully to DHIS2 for facility ID maCVupfrN6c, Facility: Bubiro Health Centre II
+Data sent successfully to DHIS2 for facility ID MbcT4a29kOV, Facility: Opiro Health Centre II
+Data sent successfully to DHIS2 for facility ID MHGvrWftKzk, Facility: Busimbi Health Centre II
+Data sent successfully to DHIS2 for facility ID mm6DbH6wKeQ, Facility: Kampiringisa Health Centre III
+Data sent successfully to DHIS2 for facility ID mNeUlm3SpRz, Facility: Pawel Health Centre II
+Data sent successfully to DHIS2 for facility ID mOP9sRWUKfh, Facility: Nsango Health Centre II
+Data sent successfully to DHIS2 for facility ID MQ5ynJIzkbh, Facility: Fr. Bilbao Health Centre III
+Data sent successfully to DHIS2 for facility ID MV2QkTgUIz1, Facility: Lokung Health Centre III
+Data sent successfully to DHIS2 for facility ID mYGNn9Bx0OH, Facility: Parabongo Health Centre II
+Data sent successfully to DHIS2 for facility ID mypOsu7U27g, Facility: Bwongyera Health Centre III
+Data sent successfully to DHIS2 for facility ID N00TPmBoIls, Facility: Bibia Health Centre III
+Data sent successfully to DHIS2 for facility ID N84R8qFmHNF, Facility: Ramogi Health Centre II
+Data sent successfully to DHIS2 for facility ID nATS7pzO63j, Facility: Kigulu Health Centre II
+Data sent successfully to DHIS2 for facility ID NCu3t93AIns, Facility: Luyitayita Health Centre III
+Data sent successfully to DHIS2 for facility ID ND2A0GOnnnY, Facility: St. Lucia Kagamba Health Centre III
+Data sent successfully to DHIS2 for facility ID NHQdOv9RFcN, Facility: Ggolo Health Centre III
+Data sent successfully to DHIS2 for facility ID NImJbGuvUS6, Facility: Ntungamo Health Centre IV
+Data sent successfully to DHIS2 for facility ID nKKX3gA72zS, Facility: Kawolo General Hospital
+Data sent successfully to DHIS2 for facility ID nM0hEumLl8G, Facility: Buluya Health Centre II
+Data sent successfully to DHIS2 for facility ID NNIbG3x0vW4, Facility: Bugiri MC Health Centre III
+Data sent successfully to DHIS2 for facility ID NstnCQR0ZCU, Facility: Namalege Health Centre II
+Data sent successfully to DHIS2 for facility ID nWJKeP8N21c, Facility: Butansi Health Centre III
+Data sent successfully to DHIS2 for facility ID nzfJdwZuyr8, Facility: Maina Health Centre II
+Data sent successfully to DHIS2 for facility ID NzNtDRq3o75, Facility: Ovujo Health Centre III
+Data sent successfully to DHIS2 for facility ID o1LaetcCY7S, Facility: Ngeribalya Health Centre II
+Data sent successfully to DHIS2 for facility ID o5I1o1YMVxP, Facility: Eliofe Health Centre III
+Data sent successfully to DHIS2 for facility ID O6TYEDR7sjP, Facility: Buluba Hospital
+Data sent successfully to DHIS2 for facility ID oBioSOuF497, Facility: Rukoni Health Centre III
+Data sent successfully to DHIS2 for facility ID OCCcAD4aYgs, Facility: Wadra Health Centre III
+Data sent successfully to DHIS2 for facility ID oexw63IOiAD, Facility: Ajikoro Health Centre III
+Data sent successfully to DHIS2 for facility ID ogD8wXFjIUD, Facility: Kisojjo (Kibinge) Health Centre II
+Data sent successfully to DHIS2 for facility ID OgnUw0a7ORO, Facility: Kalowang Health Centre III
+Data sent successfully to DHIS2 for facility ID OiuyBahpmGI, Facility: Njeru Town Council Health Centre III
+Data sent successfully to DHIS2 for facility ID OJYXXSC87rV, Facility: Oberabic Health Centre II
+Data sent successfully to DHIS2 for facility ID ON7Uan6hmYG, Facility: Jupangira Health Centre II
+Data sent successfully to DHIS2 for facility ID OPOuhWyA5PX, Facility: Buyugu Health Centre III
+Data sent successfully to DHIS2 for facility ID OYENvTcFrXW, Facility: Iceme Health Centre III (Iceme Subcounty)
+Data sent successfully to DHIS2 for facility ID p0bIifvmV47, Facility: Kapeta Health Centre II
+Data sent successfully to DHIS2 for facility ID P3xQ9rXeVdo, Facility: Kafunjo (Kafunjo) Health Centre III
+Data sent successfully to DHIS2 for facility ID Pm7k3OLfbXA, Facility: Bugulumbya Health Centre III
+Data sent successfully to DHIS2 for facility ID PoYcxTk5yjp, Facility: Nabyewanga Health Centre II
+Data sent successfully to DHIS2 for facility ID PpdVthivLyS, Facility: Ntinkalu Health Centre II
+Data sent successfully to DHIS2 for facility ID pulKKykB9je, Facility: Madi Kiloch Health Centre II
+Data sent successfully to DHIS2 for facility ID pUZjhP8bvwF, Facility: Bujuuko Health Centre III
+Data sent successfully to DHIS2 for facility ID PwgfpQbQXTQ, Facility: Najjembe Health Centre III
+Data sent successfully to DHIS2 for facility ID qdW8M8091gP, Facility: Ngogwe Health Centre III
+Data sent successfully to DHIS2 for facility ID QfWjCf5pKFh, Facility: Rweikiniro Health Centre III
+Data sent successfully to DHIS2 for facility ID QH5kXc4j4T1, Facility: Bukasa Health Centre II
+Data sent successfully to DHIS2 for facility ID qIZ5LRWbGhE, Facility: Kyoga Health Centre II
+Data sent successfully to DHIS2 for facility ID qkq6TBG0tnA, Facility: Mayuge Health Centre IV
+Data sent successfully to DHIS2 for facility ID QL6CPNbpOcH, Facility: Nyakibigi Health Centre II
+Data sent successfully to DHIS2 for facility ID QLJmdTgkB3N, Facility: Bulwadda Health Centre II
+Data sent successfully to DHIS2 for facility ID qNPSuHsI7VL, Facility: Nyaburiza Health Centre II
+Data sent successfully to DHIS2 for facility ID QQ48OF4SR47, Facility: Kyeeya Health Centre III
+Data sent successfully to DHIS2 for facility ID QX10pPIWlfR, Facility: Kasambya (Gomba) Health Centre II
+Data sent successfully to DHIS2 for facility ID QXVOVXOy3FM, Facility: Mpigi Health Centre IV
+Data sent successfully to DHIS2 for facility ID QYBM6A0o4pT, Facility: Ngoma Health Centre III
+Data sent successfully to DHIS2 for facility ID r7ps4KEp5W9, Facility: Eremi Health Centre III
+Data sent successfully to DHIS2 for facility ID r7ugOoXi8F1, Facility: Maddu Health Centre IV
+Data sent successfully to DHIS2 for facility ID R8AbRMc8iZC, Facility: Lasanga Health Centre III
+Data sent successfully to DHIS2 for facility ID rk5itnVaCHU, Facility: Ngomba Health Centre II
+Data sent successfully to DHIS2 for facility ID RlulmyGd2XY, Facility: Buyoga Health Centre III
+Data sent successfully to DHIS2 for facility ID rlXW6WfCgAp, Facility: Iwemba Health Centre III
+Data sent successfully to DHIS2 for facility ID rnSuCabTqe3, Facility: Otwee Health Centre III
+Data sent successfully to DHIS2 for facility ID RrrjJE4SdLj, Facility: Munu Health Centre II
+Data sent successfully to DHIS2 for facility ID rSpQGF4E4vj, Facility: Ntungamo Nyabushenyi Health Centre II
+Data sent successfully to DHIS2 for facility ID RVFMEGRSxTl, Facility: Muterere Health Centre III
+Data sent successfully to DHIS2 for facility ID RVSKVTxRcnF, Facility: Bukaya Health Centre II
+Data sent successfully to DHIS2 for facility ID RWEo3tF0K1h, Facility: Mirambi Health Centre III
+Data sent successfully to DHIS2 for facility ID Rx8u7WLhn7R, Facility: Bukatube Health Centre III
+Data sent successfully to DHIS2 for facility ID s1LH73FP6Ck, Facility: Kisozi Flep Health Centre III
+Data sent successfully to DHIS2 for facility ID S26rammWZ0Y, Facility: Kamaka Health Centre III
+Data sent successfully to DHIS2 for facility ID SCOrhnwQX8k, Facility: Kanzira Health Centre II
+Data sent successfully to DHIS2 for facility ID sHwAlmYg5Hs, Facility: Kasubi Health Centre III
+Data sent successfully to DHIS2 for facility ID slmQFUjMcfA, Facility: Amanipi Health Centre II
+Data sent successfully to DHIS2 for facility ID sM16IZrIVkP, Facility: Kishami Health Centre III
+Data sent successfully to DHIS2 for facility ID sO5sVDlQBUW, Facility: Rukarango Health Centre II
+Data sent successfully to DHIS2 for facility ID SYUCRivGRom, Facility: Al-Hijira Health Centre III
+Data sent successfully to DHIS2 for facility ID SzVYBCcGiM7, Facility: Ggoli - St Yakobo Health Centre III
+Data sent successfully to DHIS2 for facility ID T2ENFWE19Bu, Facility: Jupanziri Health Centre III
+Data sent successfully to DHIS2 for facility ID t7sCLD2E7gA, Facility: Okol Health Centre II
+Data sent successfully to DHIS2 for facility ID T88viUXcVgf, Facility: Kibimba Health Centre II
+Data sent successfully to DHIS2 for facility ID t8rivYmnWIo, Facility: Paminya Health Centre III
+Data sent successfully to DHIS2 for facility ID taeUtmBHKTF, Facility: Otwal Health Centre III
+Data sent successfully to DHIS2 for facility ID tbLOoJ5HpgT, Facility: Lela-Obaro Health Centre II
+Data sent successfully to DHIS2 for facility ID tblUABgAaZA, Facility: Nabulezi Health Centre II
+Data sent successfully to DHIS2 for facility ID tDnc44nKr26, Facility: St. Francis Health Care Services Health Centre
+Data sent successfully to DHIS2 for facility ID TFZkGWDDyXX, Facility: Oweko Health Centre II
+Data sent successfully to DHIS2 for facility ID TjOqyM8ZMii, Facility: Palukere Health Centre II
+Data sent successfully to DHIS2 for facility ID tl4nhPJTSA0, Facility: Wamulongo Health Centre II
+Data sent successfully to DHIS2 for facility ID tOS4NFR78ex, Facility: Maziriga Health Centre II
+Data sent successfully to DHIS2 for facility ID TOwFMUTd1XN, Facility: Kigandalo Health Centre IV
+Data sent successfully to DHIS2 for facility ID tPiPaWz3TIK, Facility: Kyayi Health Centre III
+Data sent successfully to DHIS2 for facility ID Tvayfd3cIU2, Facility: Labongogali Health Centre III
+Data sent successfully to DHIS2 for facility ID tvKjvN8d4rR, Facility: Agoro Health Centre III
+Data sent successfully to DHIS2 for facility ID tw7g2aShrXi, Facility: Bukalagi Health Centre III
+Data sent successfully to DHIS2 for facility ID txcjTxewsdC, Facility: Nabukalu Health Centre III
+Data sent successfully to DHIS2 for facility ID TYC4xgc3ieF, Facility: Ssi Health Centre III
+Data sent successfully to DHIS2 for facility ID tYPKoJnvJPx, Facility: Kiyoora Health Centre II
+Data sent successfully to DHIS2 for facility ID U2iprp1G39M, Facility: Kitondo Health Centre III
+Data sent successfully to DHIS2 for facility ID u5jXNGfi96o, Facility: Wabulungu Health Centre III
+Data sent successfully to DHIS2 for facility ID ubW4E9HsKKB, Facility: Maracha Health Centre IV
+Data sent successfully to DHIS2 for facility ID uCbdfXDN1zW, Facility: Buwoya Health Centre II
+Data sent successfully to DHIS2 for facility ID UD1BUpcjYtc, Facility: Nawantumbi Health Centre II
+Data sent successfully to DHIS2 for facility ID UDIcZADBS92, Facility: Bira Health Centre II
+Data sent successfully to DHIS2 for facility ID uDSFrOfKQmE, Facility: Ihunga (Ntungamo) Health Centre III
+Data sent successfully to DHIS2 for facility ID uGfXrLtYv7J, Facility: Lacor Opit Health Centre III
+Data sent successfully to DHIS2 for facility ID UHlQWaIlqvU, Facility: Nkaiza Health Centre II
+Data sent successfully to DHIS2 for facility ID UhQMDsDfW85, Facility: Kitayunjwa Health Centre III
+Data sent successfully to DHIS2 for facility ID uja4Tx4IR8w, Facility: Buwaiswa Health Centre III
+Data sent successfully to DHIS2 for facility ID Uo8eU7Qrx0v, Facility: Ruhama Health Centre III
+Data sent successfully to DHIS2 for facility ID uPAnapLaFYh, Facility: Nankandulo Health Centre IV
+Data sent successfully to DHIS2 for facility ID uqk1XgbxpCg, Facility: Yivu Abea Health Centre III
+Data sent successfully to DHIS2 for facility ID URmGWanfgpn, Facility: Dranya Health Centre III
+Data sent successfully to DHIS2 for facility ID uVzb26lWq53, Facility: Tara Health Centre III
+Data sent successfully to DHIS2 for facility ID v2XOGwTwMGe, Facility: Kirongero Health Centre II
+Data sent successfully to DHIS2 for facility ID vA1hYI0OEFl, Facility: Rwamabondo Health Centre II
+Data sent successfully to DHIS2 for facility ID VCIAE5Bta3H, Facility: St. Mary's Maternity & Nursing Home
+Data sent successfully to DHIS2 for facility ID VCZvyMMtuNQ, Facility: Konko Health Centre II
+Data sent successfully to DHIS2 for facility ID Vi3ibjRtMzU, Facility: Buwama Health Centre III
+Data sent successfully to DHIS2 for facility ID vkpREtlXQxQ, Facility: Nkozi Hospital
+Data sent successfully to DHIS2 for facility ID VLi163AL9A0, Facility: Palabek-Kal Health Centre IV
+Data sent successfully to DHIS2 for facility ID vnIPfEUR8ce, Facility: Olwal Health Centre III
+Data sent successfully to DHIS2 for facility ID VomjjgKAFjr, Facility: Apaa Health Centre II
+Data sent successfully to DHIS2 for facility ID vQMNtz05zAJ, Facility: Nyakyera Health Centre III
+Data sent successfully to DHIS2 for facility ID VXTxQRCiH2C, Facility: Nswanjere Health Centre III
+Data sent successfully to DHIS2 for facility ID VZjIOTAddHZ, Facility: Goopi Health Centre II
+Data sent successfully to DHIS2 for facility ID W2DisxptRpM, Facility: Kibeho Health Centre II
+Data sent successfully to DHIS2 for facility ID W65MlPtBlmF, Facility: Kityerera Health Centre IV
+Data sent successfully to DHIS2 for facility ID WfEOwsEOMbc, Facility: Buziika Health Centre II
+Data sent successfully to DHIS2 for facility ID WHVbek1utH5, Facility: Lama Health Centre III
+Data sent successfully to DHIS2 for facility ID wVUi8BXxKkY, Facility: Kitwe Health Centre II
+Data sent successfully to DHIS2 for facility ID WyB0okmGKma, Facility: Bwalula Health Centre II
+Data sent successfully to DHIS2 for facility ID X00gYQ3tjMD, Facility: Laropi Health Centre III
+Data sent successfully to DHIS2 for facility ID X0BZOCXmDkj, Facility: Balawoli Health Centre III
+Data sent successfully to DHIS2 for facility ID X1RkzMg2Hn1, Facility: Bunjako Health Centre III
+Data sent successfully to DHIS2 for facility ID x4EXo9kapwP, Facility: Liko Health Centre III
+Data sent successfully to DHIS2 for facility ID x4fr2px73Bq, Facility: Acokara Health Centre II
+Data sent successfully to DHIS2 for facility ID xbM4diuk1dB, Facility: Bulesa Health Centre III
+Data sent successfully to DHIS2 for facility ID XdXAfIaLuld, Facility: Awer Health Centre II
+Data sent successfully to DHIS2 for facility ID xEsy0BxwCmQ, Facility: Kibumbiro Health Centre II
+Data sent successfully to DHIS2 for facility ID Xh5eLA8vMYG, Facility: Kiige HC II
+Data sent successfully to DHIS2 for facility ID XK9RFXZJrFx, Facility: Busuyi Health Centre II
+Data sent successfully to DHIS2 for facility ID XsLMulDu2aw, Facility: Kanoni Health Centre III
+Data sent successfully to DHIS2 for facility ID XtoI9233bvR, Facility: St. Luke Muterere Health Centre II
+Data sent successfully to DHIS2 for facility ID XvNvwaRITIS, Facility: Nawandyo Health Centre III
+Data sent successfully to DHIS2 for facility ID xvsvbPNHC2I, Facility: Jagusi Health Centre III
+Data sent successfully to DHIS2 for facility ID Xvt0nRCNyrC, Facility: Ngomanene Health Centre III
+Data sent successfully to DHIS2 for facility ID xxukfjPreUj, Facility: Palenga Health Centre II
+Data sent successfully to DHIS2 for facility ID xXyZHTAldd9, Facility: Namasagali Health Centre III
+Data sent successfully to DHIS2 for facility ID Y1aTreUsUZn, Facility: Otici Health Centre II
+Data sent successfully to DHIS2 for facility ID y1S7Kh163t9, Facility: Mother Francisca Lechner Health Centre IV
+Data sent successfully to DHIS2 for facility ID YbtIUFv6PHM, Facility: Buluguyi Health Centre III
+Data sent successfully to DHIS2 for facility ID yGBkMoiQXWX, Facility: Panyanga Health Centre II
+Data sent successfully to DHIS2 for facility ID ygGN15RPkJR, Facility: Nankoma Health Centre IV
+Data sent successfully to DHIS2 for facility ID yj1g0uy0fXZ, Facility: Kayogera Health Centre II
+Data sent successfully to DHIS2 for facility ID yJNtR9S3CZZ, Facility: Bugiri Buwunga Health Centre III
+Data sent successfully to DHIS2 for facility ID YKW2twSLRHF, Facility: Rwanda Health Centre III
+Data sent successfully to DHIS2 for facility ID yM6f1QC8fPA, Facility: Lugazi Health Centre II
+Data sent successfully to DHIS2 for facility ID YxeL7JN6HKe, Facility: Muduuma Health Centre III
+Data sent successfully to DHIS2 for facility ID z035qUkEmvF, Facility: Akwangi Health Centre II
+Data sent successfully to DHIS2 for facility ID Z2X4PeBAA5G, Facility: Kasambira Health Centre II
+Data sent successfully to DHIS2 for facility ID Z3lDSWMFUyS, Facility: Madi-Opei Health Centre IV
+Data sent successfully to DHIS2 for facility ID z7Cf9DgHZWX, Facility: Namulesa Health Centre II
+Data sent successfully to DHIS2 for facility ID ZApo7f6AObR, Facility: Namusenwa Health Centre II
+Data sent successfully to DHIS2 for facility ID zardxfXWmkO, Facility: Awoo Health Centre III
+Data sent successfully to DHIS2 for facility ID ZcC2OKgHUBc, Facility: Nindye Health Centre III
+Data sent successfully to DHIS2 for facility ID zhFVYJiWUOS, Facility: Tongolo Health Centre II
+Data sent successfully to DHIS2 for facility ID Zix3B1axH9x, Facility: Kamuli Mission Hospital
+Data sent successfully to DHIS2 for facility ID zJxJF8dOBan, Facility: Kituna Health Centre II
+Data sent successfully to DHIS2 for facility ID ZQ98MZqjZIl, Facility: Alao Health Centre II
+Data sent successfully to DHIS2 for facility ID ZQGEaiVBKkA, Facility: Pagwata Health Centre II
+Data sent successfully to DHIS2 for facility ID zS5zIF13N8K, Facility: Nabirama Health Centre II
+Data sent successfully to DHIS2 for facility ID ZubUtSX9erU, Facility: Abeso Health Centre II
+Data sent successfully to DHIS2 for facility ID zyI8GDUVYdE, Facility: Namwendwa Health Centre IV
+Data sent successfully to DHIS2 for facility ID a1OVdGUzoJ4, Facility: Budhaya Health Centre II
+Data sent successfully to DHIS2 for facility ID a2a7qNyJg9j, Facility: Otong Health Centre II
+Data sent successfully to DHIS2 for facility ID a2d3lpVigxP, Facility: Wakawaka Health Centre II
+Data sent successfully to DHIS2 for facility ID a4QeS81YJ8z, Facility: Olinga Health Centre II
+Data sent successfully to DHIS2 for facility ID a5pTJ9dZfZV, Facility: Pogo Health Centre II
+Data sent successfully to DHIS2 for facility ID a6mnx3ok5NB, Facility: St. Elizabeth Kibanga Ihu Health Centre III
+Data sent successfully to DHIS2 for facility ID A7BAVMsywaQ, Facility: Kawoko Muslim Health Centre III
+Data sent successfully to DHIS2 for facility ID a7iTUfqFKUY, Facility: Busota Health Centre III
+Data sent successfully to DHIS2 for facility ID a7lnM83DJGy, Facility: Itojo General Hospital
+Data sent successfully to DHIS2 for facility ID a8109gv7MMz, Facility: Kapyanga (Bugubo) Health Centre II
+Data sent successfully to DHIS2 for facility ID a9vGVj3Ftt9, Facility: Butaare Health Centre III
+Data sent successfully to DHIS2 for facility ID aa2fHwZinjk, Facility: Kawaga Health Centre II
+Data sent successfully to DHIS2 for facility ID ab4OBBdke1q, Facility: Atipe Health Centre III
+Data sent successfully to DHIS2 for facility ID Ab89aosJCg9, Facility: Rugarama Health Centre III
+Data sent successfully to DHIS2 for facility ID aBPPyVGRNyh, Facility: Namaira Health Centre II
+Data sent successfully to DHIS2 for facility ID Abzyw3gTHdQ, Facility: Buyanja (Gomba) Health Centre II
+Data sent successfully to DHIS2 for facility ID ac4kdbslWxB, Facility: Muggi Health Centre II
+Data sent successfully to DHIS2 for facility ID acTilIN9qRy, Facility: Nyadri Health Centre III
+Data sent successfully to DHIS2 for facility ID acuu3ktUO4t, Facility: Rubare Health Centre IV
+Data sent successfully to DHIS2 for facility ID aEvCseBkEDr, Facility: Afoji Health Centre II
+Data sent successfully to DHIS2 for facility ID aFgrVHVDqoZ, Facility: Amuru Lacor Health Centre III
+Data sent successfully to DHIS2 for facility ID aFLv0Mbd84E, Facility: Gwere Health Centre II
+Data sent successfully to DHIS2 for facility ID agJr4JxEd5N, Facility: Nyanga Health Centre III
+Data sent successfully to DHIS2 for facility ID agQsp6hFdZa, Facility: St. Mechtilda Kitaasa Health Centre III
+Data sent successfully to DHIS2 for facility ID agZi79Er2GX, Facility: Bwiwula Health Centre II
+Data sent successfully to DHIS2 for facility ID ahIE2es9s39, Facility: Ngomoromo Health Centre II
+Data sent successfully to DHIS2 for facility ID aHrBkRnFBmb, Facility: Bwondha Health Centre II
+Data sent successfully to DHIS2 for facility ID aifkaPWfQez, Facility: Kyamwasha Health Centre III
+Data sent successfully to DHIS2 for facility ID aileSfY6owN, Facility: Pijoke Health Centre III
+Data sent successfully to DHIS2 for facility ID ajaZHwTza6B, Facility: Kabigi Muslim Health Centre III
+Data sent successfully to DHIS2 for facility ID ajuXeILzSDT, Facility: Matiki Health Centre III
+Data sent successfully to DHIS2 for facility ID aK4gwJ4rOvw, Facility: Wangobo Health Centre II
+Data sent successfully to DHIS2 for facility ID akPhsrP77Ae, Facility: Nkombe (Imanyiro) Health Centre III
+Data sent successfully to DHIS2 for facility ID aLQq5QTDV2s, Facility: St. Monica Katende Health Centre III
+Data sent successfully to DHIS2 for facility ID am0vQYNJohR, Facility: Jengari Health Centre II
+Data sent successfully to DHIS2 for facility ID an1CZjQ65h7, Facility: Wakisi Health Centre III
+Data sent successfully to DHIS2 for facility ID analluLubfV, Facility: Busabaga Health Centre III
+Data sent successfully to DHIS2 for facility ID anOxR20hDCC, Facility: Kituntu Health Centre III
+Data sent successfully to DHIS2 for facility ID aNW8E8PWwck, Facility: Palabek-Gem Health Centre III
+Data sent successfully to DHIS2 for facility ID ao6V9sOp2DA, Facility: Malongo Health Centre III
+Data sent successfully to DHIS2 for facility ID aod4x8edzQu, Facility: Paloga Health Centre III
+Data sent successfully to DHIS2 for facility ID aoNyMeWn6YC, Facility: Kitovu Health Centre II
+Data sent successfully to DHIS2 for facility ID aoYoN1wkWDw, Facility: Metu Health Centre III
+Data sent successfully to DHIS2 for facility ID ApVyWDny4Sz, Facility: Akangi Health Centre II
+Data sent successfully to DHIS2 for facility ID aPw8BIgtIDF, Facility: Nsamu/Kyali Health Centre III
+Data sent successfully to DHIS2 for facility ID aPXQhyTI3oq, Facility: Bute Health Centre II
+Data sent successfully to DHIS2 for facility ID apYhAqPQauy, Facility: Pamaka Health Centre III
+Data sent successfully to DHIS2 for facility ID ar6iOa5kNV5, Facility: Kyemeire Health Centre II
+Data sent successfully to DHIS2 for facility ID arIRCXLdLpv, Facility: Magada Health Centre II
+Data sent successfully to DHIS2 for facility ID aRRsrxSesDy, Facility: Kewerimidde Health Centre II
+Data sent successfully to DHIS2 for facility ID aRxadClWcFM, Facility: Ogur Health Centre IV
+Data sent successfully to DHIS2 for facility ID aRZJAIxQZ53, Facility: Kaina Health Centre III
+Data sent successfully to DHIS2 for facility ID aRZTDpzTYep, Facility: Nkokonjeru Health Centre II
+Data sent successfully to DHIS2 for facility ID atESdVRBAaA, Facility: Nakigunju Health Centre II
+Data sent successfully to DHIS2 for facility ID atLLqk4WxXL, Facility: Buluwe Health Centre II
+Data sent successfully to DHIS2 for facility ID ATo2Nmy2Y1Y, Facility: Lurujo Health Centre III
+Data sent successfully to DHIS2 for facility ID aU7ebDxE9vM, Facility: Mbulamuti Health Centre III
+Data sent successfully to DHIS2 for facility ID aULXp2H2LGI, Facility: Kitanda Health Centre III
+Data sent successfully to DHIS2 for facility ID aVK5pJX1FPP, Facility: Kafumu Health Centre II
+Data sent successfully to DHIS2 for facility ID awjedeMiWo3, Facility: Pacilo Health Centre II
+Data sent successfully to DHIS2 for facility ID aX1tLCw6glR, Facility: Bugungu Health Centre II
+Data sent successfully to DHIS2 for facility ID ayit7T8VnwQ, Facility: Busaala Health Centre III
+Data sent successfully to DHIS2 for facility ID bah36yY0P6q, Facility: Bobi Health Centre III
+Data sent successfully to DHIS2 for facility ID bHzMYiEE7ng, Facility: Ntawawula Health Centre II
+Data sent successfully to DHIS2 for facility ID BIiLhy7eYLl, Facility: Makonge Health Centre III
+Data sent successfully to DHIS2 for facility ID biQmsTGoRmT, Facility: Gbalala Health Centre II
+Data sent successfully to DHIS2 for facility ID bLzMzz5fzGQ, Facility: Anaka Health Centre II
+Data sent successfully to DHIS2 for facility ID BNsfT2yL0kW, Facility: Kayango Health Centre III
+Data sent successfully to DHIS2 for facility ID BP88BEDdnP2, Facility: Kirinya (Budhaya) Health Centre II
+Data sent successfully to DHIS2 for facility ID bq8JZONb0MA, Facility: Oleba Health Centre III
+Data sent successfully to DHIS2 for facility ID bs5xBJK6Qrb, Facility: Namayemba Safe Motherhood Health Centre II
+Data sent successfully to DHIS2 for facility ID btRLfMJVynr, Facility: Cohwe Health Centre II
+Data sent successfully to DHIS2 for facility ID bV0ljliUSvK, Facility: Bugiri Mayuge Health Centre III
+Data sent successfully to DHIS2 for facility ID bWOR5fD8vdv, Facility: Kavule (Buikwe) Health Centre II
+Data sent successfully to DHIS2 for facility ID BXdPG3XpRk8, Facility: Nabirumba Health Centre III
+Data sent successfully to DHIS2 for facility ID C8i6PL7Rmim, Facility: Odokonyero Health Centre II
+Data sent successfully to DHIS2 for facility ID cacYqraIAeB, Facility: Lobule Health Centre III
+Data sent successfully to DHIS2 for facility ID CB9zwzOqEbX, Facility: Sekiwunga Health Centre III
+Data sent successfully to DHIS2 for facility ID cBT4skCUyC3, Facility: Busira Health Centre II
+Data sent successfully to DHIS2 for facility ID CcCjT4HFRuy, Facility: Mpenja Health Centre III
+Data sent successfully to DHIS2 for facility ID cK5zkZIUFsN, Facility: Buikwe Health Centre III
+Data sent successfully to DHIS2 for facility ID CKPFNnfrvbR, Facility: Kyafoora Health Centre II
+Data sent successfully to DHIS2 for facility ID CNG62dd4mE1, Facility: Bugiri General Hospital
+Data sent successfully to DHIS2 for facility ID Co0DLFVgmGz, Facility: Butoolo Health Centre III
+Data sent successfully to DHIS2 for facility ID cOpgsVK1JpT, Facility: Buhanama Health Centre III
+Data sent successfully to DHIS2 for facility ID CqBb08p28JJ, Facility: Makindu Health Centre III
+Data sent successfully to DHIS2 for facility ID cqExOqLOqNY, Facility: Ori Health Centre II
+Data sent successfully to DHIS2 for facility ID CSpqU3MIZuC, Facility: Rwashamaire Health Centre IV
+Data sent successfully to DHIS2 for facility ID cyWgf6Xmo8Z, Facility: Ngai Health Centre III
+Data sent successfully to DHIS2 for facility ID d6LKSCl9Pq7, Facility: Kiyunga Health Centre III
+Data sent successfully to DHIS2 for facility ID DaUdxUUVqCJ, Facility: Wandegeya Health Centre II
+Data sent successfully to DHIS2 for facility ID dBJMmXzJwYi, Facility: Baitambogwe Health Centre III
+Data sent successfully to DHIS2 for facility ID dIkUObxFycV, Facility: Nanderema Health Centre II
+Data sent successfully to DHIS2 for facility ID Dil7ITnaKlq, Facility: Kabizi-Bugoba Health Centre II
+Data sent successfully to DHIS2 for facility ID DjgbWcdzpkC, Facility: Kasolwe Health Centre II
+Data sent successfully to DHIS2 for facility ID DLHAeBCBkdX, Facility: Mother Kevin HC III
+Data sent successfully to DHIS2 for facility ID Dpv2z5tBsQK, Facility: Dufile Health Centre III
+Data sent successfully to DHIS2 for facility ID dqVrBFvJg3n, Facility: Oluvu Health Centre III
+Data sent successfully to DHIS2 for facility ID dRVlZtrIfcM, Facility: Kigangazzi Health Centre II
+Data sent successfully to DHIS2 for facility ID dTLwhS7Lpm2, Facility: Iterero Health Centre II
+Data sent successfully to DHIS2 for facility ID DUDZxVy6oKw, Facility: Namoni Health Centre II
+Data sent successfully to DHIS2 for facility ID e8DyC8c45AO, Facility: Rwoho Health Centre III
+Data sent successfully to DHIS2 for facility ID E9a1cflRJZf, Facility: Abala Health Centre III
+Data sent successfully to DHIS2 for facility ID ECSAxXG3JMh, Facility: Bupadhengo Health Centre III
+Data sent successfully to DHIS2 for facility ID ede2KlZ1gtL, Facility: Lanenober Health Centre III
+Data sent successfully to DHIS2 for facility ID EEDxS26updx, Facility: Aya Health Centre III
+Data sent successfully to DHIS2 for facility ID eGnEYY7m8vD, Facility: Kiyunga Bukakande Health Centre II
+Data sent successfully to DHIS2 for facility ID eKAZwpYo3r5, Facility: Padwot Midyere Health Centre III
+Data sent successfully to DHIS2 for facility ID EoHnqQ9tho5, Facility: Kasutaime Health Centre II
+Data sent successfully to DHIS2 for facility ID etgRSvMWbqH, Facility: Bumoozi Health Centre II
+Data sent successfully to DHIS2 for facility ID Eu7L6ZmhA4R, Facility: Kikwayi Health Centre II
+Data sent successfully to DHIS2 for facility ID EYFKJlJa6Mp, Facility: Loinya Health Centre II
+Data sent successfully to DHIS2 for facility ID EYklRtOZrwz, Facility: Anyeke Health Centre IV
+Data sent successfully to DHIS2 for facility ID EZA6XG2Eqra, Facility: Moyo Mission Health Centre IV
+Data sent successfully to DHIS2 for facility ID F3VE0gdRXu1, Facility: Goli Health Centre IV
+Data sent successfully to DHIS2 for facility ID F4phb7m6hiz, Facility: Arra Health Centre II
+Data sent successfully to DHIS2 for facility ID F9CI9eMBhCE, Facility: Nambo Health Centre II
+Data sent successfully to DHIS2 for facility ID FGnMVMPBCLN, Facility: Kitwe Health Centre IV
+Data sent successfully to DHIS2 for facility ID FICwy0lTFNW, Facility: Bugoto Health Centre II
+Data sent successfully to DHIS2 for facility ID FJF7Vx7pjWL, Facility: Masolya Health Centre III
+Data sent successfully to DHIS2 for facility ID fnse10SronT, Facility: Pangira Health Centre II
+Data sent successfully to DHIS2 for facility ID FNTxj1oKTQd, Facility: Lacor-Pabbo Health Centre III
+Data sent successfully to DHIS2 for facility ID FPENxnEHmc7, Facility: Kyando Health Centre II
+Data sent successfully to DHIS2 for facility ID FQETWwqB2VJ, Facility: Eria Health Centre III
+Data sent successfully to DHIS2 for facility ID FyN79so0muD, Facility: Kweyo Health Centre II
+Data sent successfully to DHIS2 for facility ID fznvuJ4HgYn, Facility: Buikwe Kalagala Health Centre II
+Data sent successfully to DHIS2 for facility ID g4MQbbN4oR6, Facility: Nyaravur Health Centre III
+Data sent successfully to DHIS2 for facility ID gBiYU9OJgsv, Facility: Akworo Health Centre III
+Data sent successfully to DHIS2 for facility ID gBVBGJ2p9b3, Facility: Butenga Health Centre IV
+Data sent successfully to DHIS2 for facility ID gid2cWEy2rv, Facility: Bufulubi Prisons Health Centre II
+Data sent successfully to DHIS2 for facility ID gJJhhRiJvSi, Facility: Logoba Health Centre III
+Data sent successfully to DHIS2 for facility ID gMSnZfci97x, Facility: Kifampa Health Centre III
+Data sent successfully to DHIS2 for facility ID gNdlN0CmZX2, Facility: Bulopa Health Centre III
+Data sent successfully to DHIS2 for facility ID gSxv8y8vQ4H, Facility: Gborokolongo Health Centre III
+Data sent successfully to DHIS2 for facility ID GTYUYJ2Ueyu, Facility: Kaluba Health Centre II
+Data sent successfully to DHIS2 for facility ID GUlztXJ4MRg, Facility: Makukuulu Health Centre III
+Data sent successfully to DHIS2 for facility ID gvwH5yT6NrE, Facility: Kagumba Health Centre III
+Data sent successfully to DHIS2 for facility ID gxT5NVatL14, Facility: Buyiga Health Centre III
+Data sent successfully to DHIS2 for facility ID gXxNhBepMX1, Facility: Bugulu Health Centre II
+Data sent successfully to DHIS2 for facility ID H026HbOAZFN, Facility: Padibe Health Centre IV
+Data sent successfully to DHIS2 for facility ID H3WUcWzPtWb, Facility: Tekulu Health Centre III
+Data sent successfully to DHIS2 for facility ID H6IBEU3xYxV, Facility: Kiringente Epi Health Centre II
+Data sent successfully to DHIS2 for facility ID H6KWp7l4pOe, Facility: Kizigo Health Centre II
+Data sent successfully to DHIS2 for facility ID H9Kdh2eKGyz, Facility: Kayonza (Ntungamo) Health Centre III
+Data sent successfully to DHIS2 for facility ID hkoHNZAApbg, Facility: Kagoggo Health Centre II
+Data sent successfully to DHIS2 for facility ID hPIXVP3f1nP, Facility: Abanya Health Centre II
+Data sent successfully to DHIS2 for facility ID HtDqqOuCfA3, Facility: Kabizi Health Centre II
+Data sent successfully to DHIS2 for facility ID HW6fE9RYBjI, Facility: Bigasa Health Centre III
+Data sent successfully to DHIS2 for facility ID HWKAq88M3aX, Facility: Moyo General Hospital
+Data sent successfully to DHIS2 for facility ID I2psFCABsSs, Facility: Tegot Health Centre II
+Data sent successfully to DHIS2 for facility ID i5CDWEBfo9n, Facility: Atiak Health Centre IV
+Data sent successfully to DHIS2 for facility ID i783Z5CHxyj, Facility: Abela Health Centre III
+Data sent successfully to DHIS2 for facility ID I9nJzN3m8qL, Facility: Agali Health Centre III
+Data sent successfully to DHIS2 for facility ID iIrDj4WIA6O, Facility: Kijomoro Health Centre III
+Data sent successfully to DHIS2 for facility ID iJCZZ9rUZYm, Facility: Ssenyi Health Centre II
+Data sent successfully to DHIS2 for facility ID IkVvGrqJfm0, Facility: Ruhoko Health Centre III
+Data sent successfully to DHIS2 for facility ID imFgSY3OUvZ, Facility: Buwagajjo Health Centre III
+Data sent successfully to DHIS2 for facility ID iTkVbN1IERm, Facility: Bubago Health Centre III
+Data sent successfully to DHIS2 for facility ID ivjYaDU4t3T, Facility: Luzinga Health Centre II
+Data sent successfully to DHIS2 for facility ID iWJI9r3QCDh, Facility: Nyongozi Health Centre II
+Data sent successfully to DHIS2 for facility ID JAPYJGfV0VY, Facility: Koboko General Hospital
+Data sent successfully to DHIS2 for facility ID JlWZ3wAo04I, Facility: Karuruma Health Centre III
+Data sent successfully to DHIS2 for facility ID jLzgzQoTP73, Facility: Besia Health Centre III
+Data sent successfully to DHIS2 for facility ID JNKTABj7P6e, Facility: Ossi Health Centre II
+Data sent successfully to DHIS2 for facility ID joubGoymaJC, Facility: Naminya Health Centre II
+Data sent successfully to DHIS2 for facility ID Js1aBKNVudQ, Facility: Pauma Health Centre II
+Data sent successfully to DHIS2 for facility ID jSNmUpGrQMN, Facility: Sagitu Health Centre II
+Data sent successfully to DHIS2 for facility ID jV5UvqIn4DU, Facility: Erepi Health Centre II
+Data sent successfully to DHIS2 for facility ID jWmjHpZqNtY, Facility: Kaladima Health Centre III
+Data sent successfully to DHIS2 for facility ID k0CvH2xB5Lg, Facility: Aloni Health Centre II
+Data sent successfully to DHIS2 for facility ID K3VuoMDqbif, Facility: Busoga Health Centre II
+Data sent successfully to DHIS2 for facility ID K74ysFimUwH, Facility: Padibe West Health Centre III
+Data sent successfully to DHIS2 for facility ID K7Do3WBvmLa, Facility: Angal Hospital
+Data sent successfully to DHIS2 for facility ID k7sazN1EJ0o, Facility: Ddungi Health Centre II
+Data sent successfully to DHIS2 for facility ID KJ7aFxkGCAs, Facility: Kigaaga (Ngoma) Health Centre II
+Data sent successfully to DHIS2 for facility ID kJ8CMUMloVu, Facility: Okidi Health Centre II
+Data sent successfully to DHIS2 for facility ID kJRTTFJR9io, Facility: Alira Health Centre II
+Data sent successfully to DHIS2 for facility ID kjrZmlTqV89, Facility: Nyarubare Health Centre II
+Data sent successfully to DHIS2 for facility ID kkNYl0r71q6, Facility: Busowa Health Centre II
+Data sent successfully to DHIS2 for facility ID KNuyUySHocg, Facility: Kisozi Health Centre III
+Data sent successfully to DHIS2 for facility ID KPoshqPMs2y, Facility: Bulidha Health Centre III
+Data sent successfully to DHIS2 for facility ID KVr6XH80o39, Facility: Kibuye Health Centre II
+Data sent successfully to DHIS2 for facility ID l25J2D2A6R3, Facility: Guruguru Health Centre II
+Data sent successfully to DHIS2 for facility ID lCEffRvoU53, Facility: Buwaya Health Centre II
+Data sent successfully to DHIS2 for facility ID lF4U1Yzu0Ka, Facility: Mitala-Maria Health Centre III
+Data sent successfully to DHIS2 for facility ID lj4kXX1WxcL, Facility: Paanjala Health Centre II
+Data sent successfully to DHIS2 for facility ID llrIsQDjqka, Facility: Omee I Health Centre II
+Data sent successfully to DHIS2 for facility ID LPjcTTbfcGL, Facility: Okungedi Health Centre II
+Data sent successfully to DHIS2 for facility ID LUBH6P4iI1O, Facility: Bukaleeba Health Centre II
+Data sent successfully to DHIS2 for facility ID LVFyV61bpdi, Facility: Kamuli General Hospital
+Data sent successfully to DHIS2 for facility ID Lw8YR0FJdCr, Facility: Lefori Health Centre III
+Data sent successfully to DHIS2 for facility ID lWTcvquVxC0, Facility: Kamuli Youth Centre
+Data sent successfully to DHIS2 for facility ID LxIzdSisWRN, Facility: Gbari Health Centre II
+Data sent successfully to DHIS2 for facility ID m6v8B2bP3ar, Facility: Kiseitaka Health Centre II
+Data sent successfully to DHIS2 for facility ID maCVupfrN6c, Facility: Bubiro Health Centre II
+Data sent successfully to DHIS2 for facility ID MbcT4a29kOV, Facility: Opiro Health Centre II
+Data sent successfully to DHIS2 for facility ID MHGvrWftKzk, Facility: Busimbi Health Centre II
+Data sent successfully to DHIS2 for facility ID mm6DbH6wKeQ, Facility: Kampiringisa Health Centre III
+Data sent successfully to DHIS2 for facility ID mNeUlm3SpRz, Facility: Pawel Health Centre II
+Data sent successfully to DHIS2 for facility ID mOP9sRWUKfh, Facility: Nsango Health Centre II
+Data sent successfully to DHIS2 for facility ID MQ5ynJIzkbh, Facility: Fr. Bilbao Health Centre III
+Data sent successfully to DHIS2 for facility ID MV2QkTgUIz1, Facility: Lokung Health Centre III
+Data sent successfully to DHIS2 for facility ID mYGNn9Bx0OH, Facility: Parabongo Health Centre II
+Data sent successfully to DHIS2 for facility ID mypOsu7U27g, Facility: Bwongyera Health Centre III
+Data sent successfully to DHIS2 for facility ID N00TPmBoIls, Facility: Bibia Health Centre III
+Data sent successfully to DHIS2 for facility ID N84R8qFmHNF, Facility: Ramogi Health Centre II
+Data sent successfully to DHIS2 for facility ID nATS7pzO63j, Facility: Kigulu Health Centre II
+Data sent successfully to DHIS2 for facility ID NCu3t93AIns, Facility: Luyitayita Health Centre III
+Data sent successfully to DHIS2 for facility ID ND2A0GOnnnY, Facility: St. Lucia Kagamba Health Centre III
+Data sent successfully to DHIS2 for facility ID NHQdOv9RFcN, Facility: Ggolo Health Centre III
+Data sent successfully to DHIS2 for facility ID NImJbGuvUS6, Facility: Ntungamo Health Centre IV
+Data sent successfully to DHIS2 for facility ID nKKX3gA72zS, Facility: Kawolo General Hospital
+Data sent successfully to DHIS2 for facility ID nM0hEumLl8G, Facility: Buluya Health Centre II
+Data sent successfully to DHIS2 for facility ID NNIbG3x0vW4, Facility: Bugiri MC Health Centre III
+Data sent successfully to DHIS2 for facility ID NstnCQR0ZCU, Facility: Namalege Health Centre II
+Data sent successfully to DHIS2 for facility ID nWJKeP8N21c, Facility: Butansi Health Centre III
+Data sent successfully to DHIS2 for facility ID nzfJdwZuyr8, Facility: Maina Health Centre II
+Data sent successfully to DHIS2 for facility ID NzNtDRq3o75, Facility: Ovujo Health Centre III
+Data sent successfully to DHIS2 for facility ID o1LaetcCY7S, Facility: Ngeribalya Health Centre II
+Data sent successfully to DHIS2 for facility ID o5I1o1YMVxP, Facility: Eliofe Health Centre III
+Data sent successfully to DHIS2 for facility ID O6TYEDR7sjP, Facility: Buluba Hospital
+Data sent successfully to DHIS2 for facility ID oBioSOuF497, Facility: Rukoni Health Centre III
+Data sent successfully to DHIS2 for facility ID OCCcAD4aYgs, Facility: Wadra Health Centre III
+Data sent successfully to DHIS2 for facility ID oexw63IOiAD, Facility: Ajikoro Health Centre III
+Data sent successfully to DHIS2 for facility ID ogD8wXFjIUD, Facility: Kisojjo (Kibinge) Health Centre II
+Data sent successfully to DHIS2 for facility ID OgnUw0a7ORO, Facility: Kalowang Health Centre III
+Data sent successfully to DHIS2 for facility ID OiuyBahpmGI, Facility: Njeru Town Council Health Centre III
+Data sent successfully to DHIS2 for facility ID OJYXXSC87rV, Facility: Oberabic Health Centre II
+Data sent successfully to DHIS2 for facility ID ON7Uan6hmYG, Facility: Jupangira Health Centre II
+Data sent successfully to DHIS2 for facility ID OPOuhWyA5PX, Facility: Buyugu Health Centre III
+Data sent successfully to DHIS2 for facility ID OYENvTcFrXW, Facility: Iceme Health Centre III (Iceme Subcounty)
+Data sent successfully to DHIS2 for facility ID p0bIifvmV47, Facility: Kapeta Health Centre II
+Data sent successfully to DHIS2 for facility ID P3xQ9rXeVdo, Facility: Kafunjo (Kafunjo) Health Centre III
+Data sent successfully to DHIS2 for facility ID Pm7k3OLfbXA, Facility: Bugulumbya Health Centre III
+Data sent successfully to DHIS2 for facility ID PoYcxTk5yjp, Facility: Nabyewanga Health Centre II
+Data sent successfully to DHIS2 for facility ID PpdVthivLyS, Facility: Ntinkalu Health Centre II
+Data sent successfully to DHIS2 for facility ID pulKKykB9je, Facility: Madi Kiloch Health Centre II
+Data sent successfully to DHIS2 for facility ID pUZjhP8bvwF, Facility: Bujuuko Health Centre III
+Data sent successfully to DHIS2 for facility ID PwgfpQbQXTQ, Facility: Najjembe Health Centre III
+Data sent successfully to DHIS2 for facility ID qdW8M8091gP, Facility: Ngogwe Health Centre III
+Data sent successfully to DHIS2 for facility ID QfWjCf5pKFh, Facility: Rweikiniro Health Centre III
+Data sent successfully to DHIS2 for facility ID QH5kXc4j4T1, Facility: Bukasa Health Centre II
+Data sent successfully to DHIS2 for facility ID qIZ5LRWbGhE, Facility: Kyoga Health Centre II
+Data sent successfully to DHIS2 for facility ID qkq6TBG0tnA, Facility: Mayuge Health Centre IV
+Data sent successfully to DHIS2 for facility ID QL6CPNbpOcH, Facility: Nyakibigi Health Centre II
+Data sent successfully to DHIS2 for facility ID QLJmdTgkB3N, Facility: Bulwadda Health Centre II
+Data sent successfully to DHIS2 for facility ID qNPSuHsI7VL, Facility: Nyaburiza Health Centre II
+Data sent successfully to DHIS2 for facility ID QQ48OF4SR47, Facility: Kyeeya Health Centre III
+Data sent successfully to DHIS2 for facility ID QX10pPIWlfR, Facility: Kasambya (Gomba) Health Centre II
+Data sent successfully to DHIS2 for facility ID QXVOVXOy3FM, Facility: Mpigi Health Centre IV
+Data sent successfully to DHIS2 for facility ID QYBM6A0o4pT, Facility: Ngoma Health Centre III
+Data sent successfully to DHIS2 for facility ID r7ps4KEp5W9, Facility: Eremi Health Centre III
+Data sent successfully to DHIS2 for facility ID r7ugOoXi8F1, Facility: Maddu Health Centre IV
+Data sent successfully to DHIS2 for facility ID R8AbRMc8iZC, Facility: Lasanga Health Centre III
+Data sent successfully to DHIS2 for facility ID rk5itnVaCHU, Facility: Ngomba Health Centre II
+Data sent successfully to DHIS2 for facility ID RlulmyGd2XY, Facility: Buyoga Health Centre III
+Data sent successfully to DHIS2 for facility ID rlXW6WfCgAp, Facility: Iwemba Health Centre III
+Data sent successfully to DHIS2 for facility ID rnSuCabTqe3, Facility: Otwee Health Centre III
+Data sent successfully to DHIS2 for facility ID RrrjJE4SdLj, Facility: Munu Health Centre II
+Data sent successfully to DHIS2 for facility ID rSpQGF4E4vj, Facility: Ntungamo Nyabushenyi Health Centre II
+Data sent successfully to DHIS2 for facility ID RVFMEGRSxTl, Facility: Muterere Health Centre III
+Data sent successfully to DHIS2 for facility ID RVSKVTxRcnF, Facility: Bukaya Health Centre II
+Data sent successfully to DHIS2 for facility ID RWEo3tF0K1h, Facility: Mirambi Health Centre III
+Data sent successfully to DHIS2 for facility ID Rx8u7WLhn7R, Facility: Bukatube Health Centre III
+Data sent successfully to DHIS2 for facility ID s1LH73FP6Ck, Facility: Kisozi Flep Health Centre III
+Data sent successfully to DHIS2 for facility ID S26rammWZ0Y, Facility: Kamaka Health Centre III
+Data sent successfully to DHIS2 for facility ID SCOrhnwQX8k, Facility: Kanzira Health Centre II
+Data sent successfully to DHIS2 for facility ID sHwAlmYg5Hs, Facility: Kasubi Health Centre III
+Data sent successfully to DHIS2 for facility ID slmQFUjMcfA, Facility: Amanipi Health Centre II
+Data sent successfully to DHIS2 for facility ID sM16IZrIVkP, Facility: Kishami Health Centre III
+Data sent successfully to DHIS2 for facility ID sO5sVDlQBUW, Facility: Rukarango Health Centre II
+Data sent successfully to DHIS2 for facility ID SYUCRivGRom, Facility: Al-Hijira Health Centre III
+Data sent successfully to DHIS2 for facility ID SzVYBCcGiM7, Facility: Ggoli - St Yakobo Health Centre III
+Data sent successfully to DHIS2 for facility ID T2ENFWE19Bu, Facility: Jupanziri Health Centre III
+Data sent successfully to DHIS2 for facility ID t7sCLD2E7gA, Facility: Okol Health Centre II
+Data sent successfully to DHIS2 for facility ID T88viUXcVgf, Facility: Kibimba Health Centre II
+Data sent successfully to DHIS2 for facility ID t8rivYmnWIo, Facility: Paminya Health Centre III
+Data sent successfully to DHIS2 for facility ID taeUtmBHKTF, Facility: Otwal Health Centre III
+Data sent successfully to DHIS2 for facility ID tbLOoJ5HpgT, Facility: Lela-Obaro Health Centre II
+Data sent successfully to DHIS2 for facility ID tblUABgAaZA, Facility: Nabulezi Health Centre II
+Data sent successfully to DHIS2 for facility ID tDnc44nKr26, Facility: St. Francis Health Care Services Health Centre
+Data sent successfully to DHIS2 for facility ID TFZkGWDDyXX, Facility: Oweko Health Centre II
+Data sent successfully to DHIS2 for facility ID TjOqyM8ZMii, Facility: Palukere Health Centre II
+Data sent successfully to DHIS2 for facility ID tl4nhPJTSA0, Facility: Wamulongo Health Centre II
+Data sent successfully to DHIS2 for facility ID tOS4NFR78ex, Facility: Maziriga Health Centre II
+Data sent successfully to DHIS2 for facility ID TOwFMUTd1XN, Facility: Kigandalo Health Centre IV
+Data sent successfully to DHIS2 for facility ID tPiPaWz3TIK, Facility: Kyayi Health Centre III
+Data sent successfully to DHIS2 for facility ID Tvayfd3cIU2, Facility: Labongogali Health Centre III
+Data sent successfully to DHIS2 for facility ID tvKjvN8d4rR, Facility: Agoro Health Centre III
+Data sent successfully to DHIS2 for facility ID tw7g2aShrXi, Facility: Bukalagi Health Centre III
+Data sent successfully to DHIS2 for facility ID txcjTxewsdC, Facility: Nabukalu Health Centre III
+Data sent successfully to DHIS2 for facility ID TYC4xgc3ieF, Facility: Ssi Health Centre III
+Data sent successfully to DHIS2 for facility ID tYPKoJnvJPx, Facility: Kiyoora Health Centre II
+Data sent successfully to DHIS2 for facility ID U2iprp1G39M, Facility: Kitondo Health Centre III
+Data sent successfully to DHIS2 for facility ID u5jXNGfi96o, Facility: Wabulungu Health Centre III
+Data sent successfully to DHIS2 for facility ID ubW4E9HsKKB, Facility: Maracha Health Centre IV
+Data sent successfully to DHIS2 for facility ID uCbdfXDN1zW, Facility: Buwoya Health Centre II
+Data sent successfully to DHIS2 for facility ID UD1BUpcjYtc, Facility: Nawantumbi Health Centre II
+Data sent successfully to DHIS2 for facility ID UDIcZADBS92, Facility: Bira Health Centre II
+Data sent successfully to DHIS2 for facility ID uDSFrOfKQmE, Facility: Ihunga (Ntungamo) Health Centre III
+Data sent successfully to DHIS2 for facility ID uGfXrLtYv7J, Facility: Lacor Opit Health Centre III
+Data sent successfully to DHIS2 for facility ID UHlQWaIlqvU, Facility: Nkaiza Health Centre II
+Data sent successfully to DHIS2 for facility ID UhQMDsDfW85, Facility: Kitayunjwa Health Centre III
+Data sent successfully to DHIS2 for facility ID uja4Tx4IR8w, Facility: Buwaiswa Health Centre III
+Data sent successfully to DHIS2 for facility ID Uo8eU7Qrx0v, Facility: Ruhama Health Centre III
+Data sent successfully to DHIS2 for facility ID uPAnapLaFYh, Facility: Nankandulo Health Centre IV
+Data sent successfully to DHIS2 for facility ID uqk1XgbxpCg, Facility: Yivu Abea Health Centre III
+Data sent successfully to DHIS2 for facility ID URmGWanfgpn, Facility: Dranya Health Centre III
+Data sent successfully to DHIS2 for facility ID uVzb26lWq53, Facility: Tara Health Centre III
+Data sent successfully to DHIS2 for facility ID v2XOGwTwMGe, Facility: Kirongero Health Centre II
+Data sent successfully to DHIS2 for facility ID vA1hYI0OEFl, Facility: Rwamabondo Health Centre II
+Data sent successfully to DHIS2 for facility ID VCIAE5Bta3H, Facility: St. Mary's Maternity & Nursing Home
+Data sent successfully to DHIS2 for facility ID VCZvyMMtuNQ, Facility: Konko Health Centre II
+Data sent successfully to DHIS2 for facility ID Vi3ibjRtMzU, Facility: Buwama Health Centre III
+Data sent successfully to DHIS2 for facility ID vkpREtlXQxQ, Facility: Nkozi Hospital
+Data sent successfully to DHIS2 for facility ID VLi163AL9A0, Facility: Palabek-Kal Health Centre IV
+Data sent successfully to DHIS2 for facility ID vnIPfEUR8ce, Facility: Olwal Health Centre III
+Data sent successfully to DHIS2 for facility ID VomjjgKAFjr, Facility: Apaa Health Centre II
+Data sent successfully to DHIS2 for facility ID vQMNtz05zAJ, Facility: Nyakyera Health Centre III
+Data sent successfully to DHIS2 for facility ID VXTxQRCiH2C, Facility: Nswanjere Health Centre III
+Data sent successfully to DHIS2 for facility ID VZjIOTAddHZ, Facility: Goopi Health Centre II
+Data sent successfully to DHIS2 for facility ID W2DisxptRpM, Facility: Kibeho Health Centre II
+Data sent successfully to DHIS2 for facility ID W65MlPtBlmF, Facility: Kityerera Health Centre IV
+Data sent successfully to DHIS2 for facility ID WfEOwsEOMbc, Facility: Buziika Health Centre II
+Data sent successfully to DHIS2 for facility ID WHVbek1utH5, Facility: Lama Health Centre III
+Data sent successfully to DHIS2 for facility ID wVUi8BXxKkY, Facility: Kitwe Health Centre II
+Data sent successfully to DHIS2 for facility ID WyB0okmGKma, Facility: Bwalula Health Centre II
+Data sent successfully to DHIS2 for facility ID X00gYQ3tjMD, Facility: Laropi Health Centre III
+Data sent successfully to DHIS2 for facility ID X0BZOCXmDkj, Facility: Balawoli Health Centre III
+Data sent successfully to DHIS2 for facility ID X1RkzMg2Hn1, Facility: Bunjako Health Centre III
+Data sent successfully to DHIS2 for facility ID x4EXo9kapwP, Facility: Liko Health Centre III
+Data sent successfully to DHIS2 for facility ID x4fr2px73Bq, Facility: Acokara Health Centre II
+Data sent successfully to DHIS2 for facility ID xbM4diuk1dB, Facility: Bulesa Health Centre III
+Data sent successfully to DHIS2 for facility ID XdXAfIaLuld, Facility: Awer Health Centre II
+Data sent successfully to DHIS2 for facility ID xEsy0BxwCmQ, Facility: Kibumbiro Health Centre II
+Data sent successfully to DHIS2 for facility ID Xh5eLA8vMYG, Facility: Kiige HC II
+Data sent successfully to DHIS2 for facility ID XK9RFXZJrFx, Facility: Busuyi Health Centre II
+Data sent successfully to DHIS2 for facility ID XsLMulDu2aw, Facility: Kanoni Health Centre III
+Data sent successfully to DHIS2 for facility ID XtoI9233bvR, Facility: St. Luke Muterere Health Centre II
+Data sent successfully to DHIS2 for facility ID XvNvwaRITIS, Facility: Nawandyo Health Centre III
+Data sent successfully to DHIS2 for facility ID xvsvbPNHC2I, Facility: Jagusi Health Centre III
+Data sent successfully to DHIS2 for facility ID Xvt0nRCNyrC, Facility: Ngomanene Health Centre III
+Data sent successfully to DHIS2 for facility ID xxukfjPreUj, Facility: Palenga Health Centre II
+Data sent successfully to DHIS2 for facility ID xXyZHTAldd9, Facility: Namasagali Health Centre III
+Data sent successfully to DHIS2 for facility ID Y1aTreUsUZn, Facility: Otici Health Centre II
+Data sent successfully to DHIS2 for facility ID y1S7Kh163t9, Facility: Mother Francisca Lechner Health Centre IV
+Data sent successfully to DHIS2 for facility ID YbtIUFv6PHM, Facility: Buluguyi Health Centre III
+Data sent successfully to DHIS2 for facility ID yGBkMoiQXWX, Facility: Panyanga Health Centre II
+Data sent successfully to DHIS2 for facility ID ygGN15RPkJR, Facility: Nankoma Health Centre IV
+Data sent successfully to DHIS2 for facility ID yj1g0uy0fXZ, Facility: Kayogera Health Centre II
+Data sent successfully to DHIS2 for facility ID yJNtR9S3CZZ, Facility: Bugiri Buwunga Health Centre III
+Data sent successfully to DHIS2 for facility ID YKW2twSLRHF, Facility: Rwanda Health Centre III
+Data sent successfully to DHIS2 for facility ID yM6f1QC8fPA, Facility: Lugazi Health Centre II
+Data sent successfully to DHIS2 for facility ID YxeL7JN6HKe, Facility: Muduuma Health Centre III
+Data sent successfully to DHIS2 for facility ID z035qUkEmvF, Facility: Akwangi Health Centre II
+Data sent successfully to DHIS2 for facility ID Z2X4PeBAA5G, Facility: Kasambira Health Centre II
+Data sent successfully to DHIS2 for facility ID Z3lDSWMFUyS, Facility: Madi-Opei Health Centre IV
+Data sent successfully to DHIS2 for facility ID z7Cf9DgHZWX, Facility: Namulesa Health Centre II
+Data sent successfully to DHIS2 for facility ID ZApo7f6AObR, Facility: Namusenwa Health Centre II
+Data sent successfully to DHIS2 for facility ID zardxfXWmkO, Facility: Awoo Health Centre III
+Data sent successfully to DHIS2 for facility ID ZcC2OKgHUBc, Facility: Nindye Health Centre III
+Data sent successfully to DHIS2 for facility ID zhFVYJiWUOS, Facility: Tongolo Health Centre II
+Data sent successfully to DHIS2 for facility ID Zix3B1axH9x, Facility: Kamuli Mission Hospital
+Data sent successfully to DHIS2 for facility ID zJxJF8dOBan, Facility: Kituna Health Centre II
+Data sent successfully to DHIS2 for facility ID ZQ98MZqjZIl, Facility: Alao Health Centre II
+Data sent successfully to DHIS2 for facility ID ZQGEaiVBKkA, Facility: Pagwata Health Centre II
+Data sent successfully to DHIS2 for facility ID zS5zIF13N8K, Facility: Nabirama Health Centre II
+Data sent successfully to DHIS2 for facility ID ZubUtSX9erU, Facility: Abeso Health Centre II
+Data sent successfully to DHIS2 for facility ID zyI8GDUVYdE, Facility: Namwendwa Health Centre IV
+Data sent successfully to DHIS2 for facility ID a1OVdGUzoJ4, Facility: Budhaya Health Centre II
+Data sent successfully to DHIS2 for facility ID a2a7qNyJg9j, Facility: Otong Health Centre II
+Data sent successfully to DHIS2 for facility ID a2d3lpVigxP, Facility: Wakawaka Health Centre II
+Data sent successfully to DHIS2 for facility ID a4QeS81YJ8z, Facility: Olinga Health Centre II
+Data sent successfully to DHIS2 for facility ID a5pTJ9dZfZV, Facility: Pogo Health Centre II
+Data sent successfully to DHIS2 for facility ID a6mnx3ok5NB, Facility: St. Elizabeth Kibanga Ihu Health Centre III
+Data sent successfully to DHIS2 for facility ID A7BAVMsywaQ, Facility: Kawoko Muslim Health Centre III
+Data sent successfully to DHIS2 for facility ID a7iTUfqFKUY, Facility: Busota Health Centre III
+Data sent successfully to DHIS2 for facility ID a7lnM83DJGy, Facility: Itojo General Hospital
+Data sent successfully to DHIS2 for facility ID a8109gv7MMz, Facility: Kapyanga (Bugubo) Health Centre II
+Data sent successfully to DHIS2 for facility ID a9vGVj3Ftt9, Facility: Butaare Health Centre III
+Data sent successfully to DHIS2 for facility ID aa2fHwZinjk, Facility: Kawaga Health Centre II
+Data sent successfully to DHIS2 for facility ID ab4OBBdke1q, Facility: Atipe Health Centre III
+Data sent successfully to DHIS2 for facility ID Ab89aosJCg9, Facility: Rugarama Health Centre III
+Data sent successfully to DHIS2 for facility ID aBPPyVGRNyh, Facility: Namaira Health Centre II
+Data sent successfully to DHIS2 for facility ID Abzyw3gTHdQ, Facility: Buyanja (Gomba) Health Centre II
+Data sent successfully to DHIS2 for facility ID ac4kdbslWxB, Facility: Muggi Health Centre II
+Data sent successfully to DHIS2 for facility ID acTilIN9qRy, Facility: Nyadri Health Centre III
+Data sent successfully to DHIS2 for facility ID acuu3ktUO4t, Facility: Rubare Health Centre IV
+Data sent successfully to DHIS2 for facility ID aEvCseBkEDr, Facility: Afoji Health Centre II
+Data sent successfully to DHIS2 for facility ID aFgrVHVDqoZ, Facility: Amuru Lacor Health Centre III
+Data sent successfully to DHIS2 for facility ID aFLv0Mbd84E, Facility: Gwere Health Centre II
+Data sent successfully to DHIS2 for facility ID agJr4JxEd5N, Facility: Nyanga Health Centre III
+Data sent successfully to DHIS2 for facility ID agQsp6hFdZa, Facility: St. Mechtilda Kitaasa Health Centre III
+Data sent successfully to DHIS2 for facility ID agZi79Er2GX, Facility: Bwiwula Health Centre II
+Data sent successfully to DHIS2 for facility ID ahIE2es9s39, Facility: Ngomoromo Health Centre II
+Data sent successfully to DHIS2 for facility ID aHrBkRnFBmb, Facility: Bwondha Health Centre II
+Data sent successfully to DHIS2 for facility ID aifkaPWfQez, Facility: Kyamwasha Health Centre III
+Data sent successfully to DHIS2 for facility ID aileSfY6owN, Facility: Pijoke Health Centre III
+Data sent successfully to DHIS2 for facility ID ajaZHwTza6B, Facility: Kabigi Muslim Health Centre III
+Data sent successfully to DHIS2 for facility ID ajuXeILzSDT, Facility: Matiki Health Centre III
+Data sent successfully to DHIS2 for facility ID aK4gwJ4rOvw, Facility: Wangobo Health Centre II
+Data sent successfully to DHIS2 for facility ID akPhsrP77Ae, Facility: Nkombe (Imanyiro) Health Centre III
+Data sent successfully to DHIS2 for facility ID aLQq5QTDV2s, Facility: St. Monica Katende Health Centre III
+Data sent successfully to DHIS2 for facility ID am0vQYNJohR, Facility: Jengari Health Centre II
+Data sent successfully to DHIS2 for facility ID an1CZjQ65h7, Facility: Wakisi Health Centre III
+Data sent successfully to DHIS2 for facility ID analluLubfV, Facility: Busabaga Health Centre III
+Data sent successfully to DHIS2 for facility ID anOxR20hDCC, Facility: Kituntu Health Centre III
+Data sent successfully to DHIS2 for facility ID aNW8E8PWwck, Facility: Palabek-Gem Health Centre III
+Data sent successfully to DHIS2 for facility ID ao6V9sOp2DA, Facility: Malongo Health Centre III
+Data sent successfully to DHIS2 for facility ID aod4x8edzQu, Facility: Paloga Health Centre III
+Data sent successfully to DHIS2 for facility ID aoNyMeWn6YC, Facility: Kitovu Health Centre II
+Data sent successfully to DHIS2 for facility ID aoYoN1wkWDw, Facility: Metu Health Centre III
+Data sent successfully to DHIS2 for facility ID ApVyWDny4Sz, Facility: Akangi Health Centre II
+Data sent successfully to DHIS2 for facility ID aPw8BIgtIDF, Facility: Nsamu/Kyali Health Centre III
+Data sent successfully to DHIS2 for facility ID aPXQhyTI3oq, Facility: Bute Health Centre II
+Data sent successfully to DHIS2 for facility ID apYhAqPQauy, Facility: Pamaka Health Centre III
+Data sent successfully to DHIS2 for facility ID ar6iOa5kNV5, Facility: Kyemeire Health Centre II
+Data sent successfully to DHIS2 for facility ID arIRCXLdLpv, Facility: Magada Health Centre II
+Data sent successfully to DHIS2 for facility ID aRRsrxSesDy, Facility: Kewerimidde Health Centre II
+Data sent successfully to DHIS2 for facility ID aRxadClWcFM, Facility: Ogur Health Centre IV
+Data sent successfully to DHIS2 for facility ID aRZJAIxQZ53, Facility: Kaina Health Centre III
+Data sent successfully to DHIS2 for facility ID aRZTDpzTYep, Facility: Nkokonjeru Health Centre II
+Data sent successfully to DHIS2 for facility ID atESdVRBAaA, Facility: Nakigunju Health Centre II
+Data sent successfully to DHIS2 for facility ID atLLqk4WxXL, Facility: Buluwe Health Centre II
+Data sent successfully to DHIS2 for facility ID ATo2Nmy2Y1Y, Facility: Lurujo Health Centre III
+Data sent successfully to DHIS2 for facility ID aU7ebDxE9vM, Facility: Mbulamuti Health Centre III
+Data sent successfully to DHIS2 for facility ID aULXp2H2LGI, Facility: Kitanda Health Centre III
+Data sent successfully to DHIS2 for facility ID aVK5pJX1FPP, Facility: Kafumu Health Centre II
+Data sent successfully to DHIS2 for facility ID awjedeMiWo3, Facility: Pacilo Health Centre II
+Data sent successfully to DHIS2 for facility ID aX1tLCw6glR, Facility: Bugungu Health Centre II
+Data sent successfully to DHIS2 for facility ID ayit7T8VnwQ, Facility: Busaala Health Centre III
+Data sent successfully to DHIS2 for facility ID bah36yY0P6q, Facility: Bobi Health Centre III
+Data sent successfully to DHIS2 for facility ID bHzMYiEE7ng, Facility: Ntawawula Health Centre II
+Data sent successfully to DHIS2 for facility ID BIiLhy7eYLl, Facility: Makonge Health Centre III
+Data sent successfully to DHIS2 for facility ID biQmsTGoRmT, Facility: Gbalala Health Centre II
+Data sent successfully to DHIS2 for facility ID bLzMzz5fzGQ, Facility: Anaka Health Centre II
+Data sent successfully to DHIS2 for facility ID BNsfT2yL0kW, Facility: Kayango Health Centre III
+Data sent successfully to DHIS2 for facility ID BP88BEDdnP2, Facility: Kirinya (Budhaya) Health Centre II
+Data sent successfully to DHIS2 for facility ID bq8JZONb0MA, Facility: Oleba Health Centre III
+Data sent successfully to DHIS2 for facility ID bs5xBJK6Qrb, Facility: Namayemba Safe Motherhood Health Centre II
+Data sent successfully to DHIS2 for facility ID btRLfMJVynr, Facility: Cohwe Health Centre II
+Data sent successfully to DHIS2 for facility ID bV0ljliUSvK, Facility: Bugiri Mayuge Health Centre III
+Data sent successfully to DHIS2 for facility ID bWOR5fD8vdv, Facility: Kavule (Buikwe) Health Centre II
+Data sent successfully to DHIS2 for facility ID BXdPG3XpRk8, Facility: Nabirumba Health Centre III
+Data sent successfully to DHIS2 for facility ID C8i6PL7Rmim, Facility: Odokonyero Health Centre II
+Data sent successfully to DHIS2 for facility ID cacYqraIAeB, Facility: Lobule Health Centre III
+Data sent successfully to DHIS2 for facility ID CB9zwzOqEbX, Facility: Sekiwunga Health Centre III
+Data sent successfully to DHIS2 for facility ID cBT4skCUyC3, Facility: Busira Health Centre II
+Data sent successfully to DHIS2 for facility ID CcCjT4HFRuy, Facility: Mpenja Health Centre III
+Data sent successfully to DHIS2 for facility ID cK5zkZIUFsN, Facility: Buikwe Health Centre III
+Data sent successfully to DHIS2 for facility ID CKPFNnfrvbR, Facility: Kyafoora Health Centre II
+Data sent successfully to DHIS2 for facility ID CNG62dd4mE1, Facility: Bugiri General Hospital
+Data sent successfully to DHIS2 for facility ID Co0DLFVgmGz, Facility: Butoolo Health Centre III
+Data sent successfully to DHIS2 for facility ID cOpgsVK1JpT, Facility: Buhanama Health Centre III
+Data sent successfully to DHIS2 for facility ID CqBb08p28JJ, Facility: Makindu Health Centre III
+Data sent successfully to DHIS2 for facility ID cqExOqLOqNY, Facility: Ori Health Centre II
+Data sent successfully to DHIS2 for facility ID CSpqU3MIZuC, Facility: Rwashamaire Health Centre IV
+Data sent successfully to DHIS2 for facility ID cyWgf6Xmo8Z, Facility: Ngai Health Centre III
+Data sent successfully to DHIS2 for facility ID d6LKSCl9Pq7, Facility: Kiyunga Health Centre III
+Data sent successfully to DHIS2 for facility ID DaUdxUUVqCJ, Facility: Wandegeya Health Centre II
+Data sent successfully to DHIS2 for facility ID dBJMmXzJwYi, Facility: Baitambogwe Health Centre III
+Data sent successfully to DHIS2 for facility ID dIkUObxFycV, Facility: Nanderema Health Centre II
+Data sent successfully to DHIS2 for facility ID Dil7ITnaKlq, Facility: Kabizi-Bugoba Health Centre II
+Data sent successfully to DHIS2 for facility ID DjgbWcdzpkC, Facility: Kasolwe Health Centre II
+Data sent successfully to DHIS2 for facility ID DLHAeBCBkdX, Facility: Mother Kevin HC III
+Data sent successfully to DHIS2 for facility ID Dpv2z5tBsQK, Facility: Dufile Health Centre III
+Data sent successfully to DHIS2 for facility ID dqVrBFvJg3n, Facility: Oluvu Health Centre III
+Data sent successfully to DHIS2 for facility ID dRVlZtrIfcM, Facility: Kigangazzi Health Centre II
+Data sent successfully to DHIS2 for facility ID dTLwhS7Lpm2, Facility: Iterero Health Centre II
+Data sent successfully to DHIS2 for facility ID DUDZxVy6oKw, Facility: Namoni Health Centre II
+Data sent successfully to DHIS2 for facility ID e8DyC8c45AO, Facility: Rwoho Health Centre III
+Data sent successfully to DHIS2 for facility ID E9a1cflRJZf, Facility: Abala Health Centre III
+Data sent successfully to DHIS2 for facility ID ECSAxXG3JMh, Facility: Bupadhengo Health Centre III
+Data sent successfully to DHIS2 for facility ID ede2KlZ1gtL, Facility: Lanenober Health Centre III
+Data sent successfully to DHIS2 for facility ID EEDxS26updx, Facility: Aya Health Centre III
+Data sent successfully to DHIS2 for facility ID eGnEYY7m8vD, Facility: Kiyunga Bukakande Health Centre II
+Data sent successfully to DHIS2 for facility ID eKAZwpYo3r5, Facility: Padwot Midyere Health Centre III
+Data sent successfully to DHIS2 for facility ID EoHnqQ9tho5, Facility: Kasutaime Health Centre II
+Data sent successfully to DHIS2 for facility ID etgRSvMWbqH, Facility: Bumoozi Health Centre II
+Data sent successfully to DHIS2 for facility ID Eu7L6ZmhA4R, Facility: Kikwayi Health Centre II
+Data sent successfully to DHIS2 for facility ID EYFKJlJa6Mp, Facility: Loinya Health Centre II
+Data sent successfully to DHIS2 for facility ID EYklRtOZrwz, Facility: Anyeke Health Centre IV
+Data sent successfully to DHIS2 for facility ID EZA6XG2Eqra, Facility: Moyo Mission Health Centre IV
+Data sent successfully to DHIS2 for facility ID F3VE0gdRXu1, Facility: Goli Health Centre IV
+Data sent successfully to DHIS2 for facility ID F4phb7m6hiz, Facility: Arra Health Centre II
+Data sent successfully to DHIS2 for facility ID F9CI9eMBhCE, Facility: Nambo Health Centre II
+Data sent successfully to DHIS2 for facility ID FGnMVMPBCLN, Facility: Kitwe Health Centre IV
+Data sent successfully to DHIS2 for facility ID FICwy0lTFNW, Facility: Bugoto Health Centre II
+Data sent successfully to DHIS2 for facility ID FJF7Vx7pjWL, Facility: Masolya Health Centre III
+Data sent successfully to DHIS2 for facility ID fnse10SronT, Facility: Pangira Health Centre II
+Data sent successfully to DHIS2 for facility ID FNTxj1oKTQd, Facility: Lacor-Pabbo Health Centre III
+Data sent successfully to DHIS2 for facility ID FPENxnEHmc7, Facility: Kyando Health Centre II
+Data sent successfully to DHIS2 for facility ID FQETWwqB2VJ, Facility: Eria Health Centre III
+Data sent successfully to DHIS2 for facility ID FyN79so0muD, Facility: Kweyo Health Centre II
+Data sent successfully to DHIS2 for facility ID fznvuJ4HgYn, Facility: Buikwe Kalagala Health Centre II
+Data sent successfully to DHIS2 for facility ID g4MQbbN4oR6, Facility: Nyaravur Health Centre III
+Data sent successfully to DHIS2 for facility ID gBiYU9OJgsv, Facility: Akworo Health Centre III
+Data sent successfully to DHIS2 for facility ID gBVBGJ2p9b3, Facility: Butenga Health Centre IV
+Data sent successfully to DHIS2 for facility ID gid2cWEy2rv, Facility: Bufulubi Prisons Health Centre II
+Data sent successfully to DHIS2 for facility ID gJJhhRiJvSi, Facility: Logoba Health Centre III
+Data sent successfully to DHIS2 for facility ID gMSnZfci97x, Facility: Kifampa Health Centre III
+Data sent successfully to DHIS2 for facility ID gNdlN0CmZX2, Facility: Bulopa Health Centre III
+Data sent successfully to DHIS2 for facility ID gSxv8y8vQ4H, Facility: Gborokolongo Health Centre III
+Data sent successfully to DHIS2 for facility ID GTYUYJ2Ueyu, Facility: Kaluba Health Centre II
+Data sent successfully to DHIS2 for facility ID GUlztXJ4MRg, Facility: Makukuulu Health Centre III
+Data sent successfully to DHIS2 for facility ID gvwH5yT6NrE, Facility: Kagumba Health Centre III
+Data sent successfully to DHIS2 for facility ID gxT5NVatL14, Facility: Buyiga Health Centre III
+Data sent successfully to DHIS2 for facility ID gXxNhBepMX1, Facility: Bugulu Health Centre II
+Data sent successfully to DHIS2 for facility ID H026HbOAZFN, Facility: Padibe Health Centre IV
+Data sent successfully to DHIS2 for facility ID H3WUcWzPtWb, Facility: Tekulu Health Centre III
+Data sent successfully to DHIS2 for facility ID H6IBEU3xYxV, Facility: Kiringente Epi Health Centre II
+Data sent successfully to DHIS2 for facility ID H6KWp7l4pOe, Facility: Kizigo Health Centre II
+Data sent successfully to DHIS2 for facility ID H9Kdh2eKGyz, Facility: Kayonza (Ntungamo) Health Centre III
+Data sent successfully to DHIS2 for facility ID hkoHNZAApbg, Facility: Kagoggo Health Centre II
+Data sent successfully to DHIS2 for facility ID hPIXVP3f1nP, Facility: Abanya Health Centre II
+Data sent successfully to DHIS2 for facility ID HtDqqOuCfA3, Facility: Kabizi Health Centre II
+Data sent successfully to DHIS2 for facility ID HW6fE9RYBjI, Facility: Bigasa Health Centre III
+Data sent successfully to DHIS2 for facility ID HWKAq88M3aX, Facility: Moyo General Hospital
+Data sent successfully to DHIS2 for facility ID I2psFCABsSs, Facility: Tegot Health Centre II
+Data sent successfully to DHIS2 for facility ID i5CDWEBfo9n, Facility: Atiak Health Centre IV
+Data sent successfully to DHIS2 for facility ID i783Z5CHxyj, Facility: Abela Health Centre III
+Data sent successfully to DHIS2 for facility ID I9nJzN3m8qL, Facility: Agali Health Centre III
+Data sent successfully to DHIS2 for facility ID iIrDj4WIA6O, Facility: Kijomoro Health Centre III
+Data sent successfully to DHIS2 for facility ID iJCZZ9rUZYm, Facility: Ssenyi Health Centre II
+Data sent successfully to DHIS2 for facility ID IkVvGrqJfm0, Facility: Ruhoko Health Centre III
+Data sent successfully to DHIS2 for facility ID imFgSY3OUvZ, Facility: Buwagajjo Health Centre III
+Data sent successfully to DHIS2 for facility ID iTkVbN1IERm, Facility: Bubago Health Centre III
+Data sent successfully to DHIS2 for facility ID ivjYaDU4t3T, Facility: Luzinga Health Centre II
+Data sent successfully to DHIS2 for facility ID iWJI9r3QCDh, Facility: Nyongozi Health Centre II
+Data sent successfully to DHIS2 for facility ID JAPYJGfV0VY, Facility: Koboko General Hospital
+Data sent successfully to DHIS2 for facility ID JlWZ3wAo04I, Facility: Karuruma Health Centre III
+Data sent successfully to DHIS2 for facility ID jLzgzQoTP73, Facility: Besia Health Centre III
+Data sent successfully to DHIS2 for facility ID JNKTABj7P6e, Facility: Ossi Health Centre II
+Data sent successfully to DHIS2 for facility ID joubGoymaJC, Facility: Naminya Health Centre II
+Data sent successfully to DHIS2 for facility ID Js1aBKNVudQ, Facility: Pauma Health Centre II
+Data sent successfully to DHIS2 for facility ID jSNmUpGrQMN, Facility: Sagitu Health Centre II
+Data sent successfully to DHIS2 for facility ID jV5UvqIn4DU, Facility: Erepi Health Centre II
+Data sent successfully to DHIS2 for facility ID jWmjHpZqNtY, Facility: Kaladima Health Centre III
+Data sent successfully to DHIS2 for facility ID k0CvH2xB5Lg, Facility: Aloni Health Centre II
+Data sent successfully to DHIS2 for facility ID K3VuoMDqbif, Facility: Busoga Health Centre II
+Data sent successfully to DHIS2 for facility ID K74ysFimUwH, Facility: Padibe West Health Centre III
+Data sent successfully to DHIS2 for facility ID K7Do3WBvmLa, Facility: Angal Hospital
+Data sent successfully to DHIS2 for facility ID k7sazN1EJ0o, Facility: Ddungi Health Centre II
+Data sent successfully to DHIS2 for facility ID KJ7aFxkGCAs, Facility: Kigaaga (Ngoma) Health Centre II
+Data sent successfully to DHIS2 for facility ID kJ8CMUMloVu, Facility: Okidi Health Centre II
+Data sent successfully to DHIS2 for facility ID kJRTTFJR9io, Facility: Alira Health Centre II
+Data sent successfully to DHIS2 for facility ID kjrZmlTqV89, Facility: Nyarubare Health Centre II
+Data sent successfully to DHIS2 for facility ID kkNYl0r71q6, Facility: Busowa Health Centre II
+Data sent successfully to DHIS2 for facility ID KNuyUySHocg, Facility: Kisozi Health Centre III
+Data sent successfully to DHIS2 for facility ID KPoshqPMs2y, Facility: Bulidha Health Centre III
+Data sent successfully to DHIS2 for facility ID KVr6XH80o39, Facility: Kibuye Health Centre II
+Data sent successfully to DHIS2 for facility ID l25J2D2A6R3, Facility: Guruguru Health Centre II
+Data sent successfully to DHIS2 for facility ID lCEffRvoU53, Facility: Buwaya Health Centre II
+Data sent successfully to DHIS2 for facility ID lF4U1Yzu0Ka, Facility: Mitala-Maria Health Centre III
+Data sent successfully to DHIS2 for facility ID lj4kXX1WxcL, Facility: Paanjala Health Centre II
+Data sent successfully to DHIS2 for facility ID llrIsQDjqka, Facility: Omee I Health Centre II
+Data sent successfully to DHIS2 for facility ID LPjcTTbfcGL, Facility: Okungedi Health Centre II
+Data sent successfully to DHIS2 for facility ID LUBH6P4iI1O, Facility: Bukaleeba Health Centre II
+Data sent successfully to DHIS2 for facility ID LVFyV61bpdi, Facility: Kamuli General Hospital
+Data sent successfully to DHIS2 for facility ID Lw8YR0FJdCr, Facility: Lefori Health Centre III
+Data sent successfully to DHIS2 for facility ID lWTcvquVxC0, Facility: Kamuli Youth Centre
+Data sent successfully to DHIS2 for facility ID LxIzdSisWRN, Facility: Gbari Health Centre II
+Data sent successfully to DHIS2 for facility ID m6v8B2bP3ar, Facility: Kiseitaka Health Centre II
+Data sent successfully to DHIS2 for facility ID maCVupfrN6c, Facility: Bubiro Health Centre II
+Data sent successfully to DHIS2 for facility ID MbcT4a29kOV, Facility: Opiro Health Centre II
+Data sent successfully to DHIS2 for facility ID MHGvrWftKzk, Facility: Busimbi Health Centre II
+Data sent successfully to DHIS2 for facility ID mm6DbH6wKeQ, Facility: Kampiringisa Health Centre III
+Data sent successfully to DHIS2 for facility ID mNeUlm3SpRz, Facility: Pawel Health Centre II
+Data sent successfully to DHIS2 for facility ID mOP9sRWUKfh, Facility: Nsango Health Centre II
+Data sent successfully to DHIS2 for facility ID MQ5ynJIzkbh, Facility: Fr. Bilbao Health Centre III
+Data sent successfully to DHIS2 for facility ID MV2QkTgUIz1, Facility: Lokung Health Centre III
+Data sent successfully to DHIS2 for facility ID mYGNn9Bx0OH, Facility: Parabongo Health Centre II
+Data sent successfully to DHIS2 for facility ID mypOsu7U27g, Facility: Bwongyera Health Centre III
+Data sent successfully to DHIS2 for facility ID N00TPmBoIls, Facility: Bibia Health Centre III
+Data sent successfully to DHIS2 for facility ID N84R8qFmHNF, Facility: Ramogi Health Centre II
+Data sent successfully to DHIS2 for facility ID nATS7pzO63j, Facility: Kigulu Health Centre II
+Data sent successfully to DHIS2 for facility ID NCu3t93AIns, Facility: Luyitayita Health Centre III
+Data sent successfully to DHIS2 for facility ID ND2A0GOnnnY, Facility: St. Lucia Kagamba Health Centre III
+Data sent successfully to DHIS2 for facility ID NHQdOv9RFcN, Facility: Ggolo Health Centre III
+Data sent successfully to DHIS2 for facility ID NImJbGuvUS6, Facility: Ntungamo Health Centre IV
+Data sent successfully to DHIS2 for facility ID nKKX3gA72zS, Facility: Kawolo General Hospital
+Data sent successfully to DHIS2 for facility ID nM0hEumLl8G, Facility: Buluya Health Centre II
+Data sent successfully to DHIS2 for facility ID NNIbG3x0vW4, Facility: Bugiri MC Health Centre III
+Data sent successfully to DHIS2 for facility ID NstnCQR0ZCU, Facility: Namalege Health Centre II
+Data sent successfully to DHIS2 for facility ID nWJKeP8N21c, Facility: Butansi Health Centre III
+Data sent successfully to DHIS2 for facility ID nzfJdwZuyr8, Facility: Maina Health Centre II
+Data sent successfully to DHIS2 for facility ID NzNtDRq3o75, Facility: Ovujo Health Centre III
+Data sent successfully to DHIS2 for facility ID o1LaetcCY7S, Facility: Ngeribalya Health Centre II
+Data sent successfully to DHIS2 for facility ID o5I1o1YMVxP, Facility: Eliofe Health Centre III
+Data sent successfully to DHIS2 for facility ID O6TYEDR7sjP, Facility: Buluba Hospital
+Data sent successfully to DHIS2 for facility ID oBioSOuF497, Facility: Rukoni Health Centre III
+Data sent successfully to DHIS2 for facility ID OCCcAD4aYgs, Facility: Wadra Health Centre III
+Data sent successfully to DHIS2 for facility ID oexw63IOiAD, Facility: Ajikoro Health Centre III
+Data sent successfully to DHIS2 for facility ID ogD8wXFjIUD, Facility: Kisojjo (Kibinge) Health Centre II
+Data sent successfully to DHIS2 for facility ID OgnUw0a7ORO, Facility: Kalowang Health Centre III
+Data sent successfully to DHIS2 for facility ID OiuyBahpmGI, Facility: Njeru Town Council Health Centre III
+Data sent successfully to DHIS2 for facility ID OJYXXSC87rV, Facility: Oberabic Health Centre II
+Data sent successfully to DHIS2 for facility ID ON7Uan6hmYG, Facility: Jupangira Health Centre II
+Data sent successfully to DHIS2 for facility ID OPOuhWyA5PX, Facility: Buyugu Health Centre III
+Data sent successfully to DHIS2 for facility ID OYENvTcFrXW, Facility: Iceme Health Centre III (Iceme Subcounty)
+Data sent successfully to DHIS2 for facility ID p0bIifvmV47, Facility: Kapeta Health Centre II
+Data sent successfully to DHIS2 for facility ID P3xQ9rXeVdo, Facility: Kafunjo (Kafunjo) Health Centre III
+Data sent successfully to DHIS2 for facility ID Pm7k3OLfbXA, Facility: Bugulumbya Health Centre III
+Data sent successfully to DHIS2 for facility ID PoYcxTk5yjp, Facility: Nabyewanga Health Centre II
+Data sent successfully to DHIS2 for facility ID PpdVthivLyS, Facility: Ntinkalu Health Centre II
+Data sent successfully to DHIS2 for facility ID pulKKykB9je, Facility: Madi Kiloch Health Centre II
+Data sent successfully to DHIS2 for facility ID pUZjhP8bvwF, Facility: Bujuuko Health Centre III
+Data sent successfully to DHIS2 for facility ID PwgfpQbQXTQ, Facility: Najjembe Health Centre III
+Data sent successfully to DHIS2 for facility ID qdW8M8091gP, Facility: Ngogwe Health Centre III
+Data sent successfully to DHIS2 for facility ID QfWjCf5pKFh, Facility: Rweikiniro Health Centre III
+Data sent successfully to DHIS2 for facility ID QH5kXc4j4T1, Facility: Bukasa Health Centre II
+Data sent successfully to DHIS2 for facility ID qIZ5LRWbGhE, Facility: Kyoga Health Centre II
+Data sent successfully to DHIS2 for facility ID qkq6TBG0tnA, Facility: Mayuge Health Centre IV
+Data sent successfully to DHIS2 for facility ID QL6CPNbpOcH, Facility: Nyakibigi Health Centre II
+Data sent successfully to DHIS2 for facility ID QLJmdTgkB3N, Facility: Bulwadda Health Centre II
+Data sent successfully to DHIS2 for facility ID qNPSuHsI7VL, Facility: Nyaburiza Health Centre II
+Data sent successfully to DHIS2 for facility ID QQ48OF4SR47, Facility: Kyeeya Health Centre III
+Data sent successfully to DHIS2 for facility ID QX10pPIWlfR, Facility: Kasambya (Gomba) Health Centre II
+Data sent successfully to DHIS2 for facility ID QXVOVXOy3FM, Facility: Mpigi Health Centre IV
+Data sent successfully to DHIS2 for facility ID QYBM6A0o4pT, Facility: Ngoma Health Centre III
+Data sent successfully to DHIS2 for facility ID r7ps4KEp5W9, Facility: Eremi Health Centre III
+Data sent successfully to DHIS2 for facility ID r7ugOoXi8F1, Facility: Maddu Health Centre IV
+Data sent successfully to DHIS2 for facility ID R8AbRMc8iZC, Facility: Lasanga Health Centre III
+Data sent successfully to DHIS2 for facility ID rk5itnVaCHU, Facility: Ngomba Health Centre II
+Data sent successfully to DHIS2 for facility ID RlulmyGd2XY, Facility: Buyoga Health Centre III
+Data sent successfully to DHIS2 for facility ID rlXW6WfCgAp, Facility: Iwemba Health Centre III
+Data sent successfully to DHIS2 for facility ID rnSuCabTqe3, Facility: Otwee Health Centre III
+Data sent successfully to DHIS2 for facility ID RrrjJE4SdLj, Facility: Munu Health Centre II
+Data sent successfully to DHIS2 for facility ID rSpQGF4E4vj, Facility: Ntungamo Nyabushenyi Health Centre II
+Data sent successfully to DHIS2 for facility ID RVFMEGRSxTl, Facility: Muterere Health Centre III
+Data sent successfully to DHIS2 for facility ID RVSKVTxRcnF, Facility: Bukaya Health Centre II
+Data sent successfully to DHIS2 for facility ID RWEo3tF0K1h, Facility: Mirambi Health Centre III
+Data sent successfully to DHIS2 for facility ID Rx8u7WLhn7R, Facility: Bukatube Health Centre III
+Data sent successfully to DHIS2 for facility ID s1LH73FP6Ck, Facility: Kisozi Flep Health Centre III
+Data sent successfully to DHIS2 for facility ID S26rammWZ0Y, Facility: Kamaka Health Centre III
+Data sent successfully to DHIS2 for facility ID SCOrhnwQX8k, Facility: Kanzira Health Centre II
+Data sent successfully to DHIS2 for facility ID sHwAlmYg5Hs, Facility: Kasubi Health Centre III
+Data sent successfully to DHIS2 for facility ID slmQFUjMcfA, Facility: Amanipi Health Centre II
+Data sent successfully to DHIS2 for facility ID sM16IZrIVkP, Facility: Kishami Health Centre III
+Data sent successfully to DHIS2 for facility ID sO5sVDlQBUW, Facility: Rukarango Health Centre II
+Data sent successfully to DHIS2 for facility ID SYUCRivGRom, Facility: Al-Hijira Health Centre III
+Data sent successfully to DHIS2 for facility ID SzVYBCcGiM7, Facility: Ggoli - St Yakobo Health Centre III
+Data sent successfully to DHIS2 for facility ID T2ENFWE19Bu, Facility: Jupanziri Health Centre III
+Data sent successfully to DHIS2 for facility ID t7sCLD2E7gA, Facility: Okol Health Centre II
+Data sent successfully to DHIS2 for facility ID T88viUXcVgf, Facility: Kibimba Health Centre II
+Data sent successfully to DHIS2 for facility ID t8rivYmnWIo, Facility: Paminya Health Centre III
+Data sent successfully to DHIS2 for facility ID taeUtmBHKTF, Facility: Otwal Health Centre III
+Data sent successfully to DHIS2 for facility ID tbLOoJ5HpgT, Facility: Lela-Obaro Health Centre II
+Data sent successfully to DHIS2 for facility ID tblUABgAaZA, Facility: Nabulezi Health Centre II
+Data sent successfully to DHIS2 for facility ID tDnc44nKr26, Facility: St. Francis Health Care Services Health Centre
+Data sent successfully to DHIS2 for facility ID TFZkGWDDyXX, Facility: Oweko Health Centre II
+Data sent successfully to DHIS2 for facility ID TjOqyM8ZMii, Facility: Palukere Health Centre II
+Data sent successfully to DHIS2 for facility ID tl4nhPJTSA0, Facility: Wamulongo Health Centre II
+Data sent successfully to DHIS2 for facility ID tOS4NFR78ex, Facility: Maziriga Health Centre II
+Data sent successfully to DHIS2 for facility ID TOwFMUTd1XN, Facility: Kigandalo Health Centre IV
+Data sent successfully to DHIS2 for facility ID tPiPaWz3TIK, Facility: Kyayi Health Centre III
+Data sent successfully to DHIS2 for facility ID Tvayfd3cIU2, Facility: Labongogali Health Centre III
+Data sent successfully to DHIS2 for facility ID tvKjvN8d4rR, Facility: Agoro Health Centre III
+Data sent successfully to DHIS2 for facility ID tw7g2aShrXi, Facility: Bukalagi Health Centre III
+Data sent successfully to DHIS2 for facility ID txcjTxewsdC, Facility: Nabukalu Health Centre III
+Data sent successfully to DHIS2 for facility ID TYC4xgc3ieF, Facility: Ssi Health Centre III
+Data sent successfully to DHIS2 for facility ID tYPKoJnvJPx, Facility: Kiyoora Health Centre II
+Data sent successfully to DHIS2 for facility ID U2iprp1G39M, Facility: Kitondo Health Centre III
+Data sent successfully to DHIS2 for facility ID u5jXNGfi96o, Facility: Wabulungu Health Centre III
+Data sent successfully to DHIS2 for facility ID ubW4E9HsKKB, Facility: Maracha Health Centre IV
+Data sent successfully to DHIS2 for facility ID uCbdfXDN1zW, Facility: Buwoya Health Centre II
+Data sent successfully to DHIS2 for facility ID UD1BUpcjYtc, Facility: Nawantumbi Health Centre II
+Data sent successfully to DHIS2 for facility ID UDIcZADBS92, Facility: Bira Health Centre II
+Data sent successfully to DHIS2 for facility ID uDSFrOfKQmE, Facility: Ihunga (Ntungamo) Health Centre III
+Data sent successfully to DHIS2 for facility ID uGfXrLtYv7J, Facility: Lacor Opit Health Centre III
+Data sent successfully to DHIS2 for facility ID UHlQWaIlqvU, Facility: Nkaiza Health Centre II
+Data sent successfully to DHIS2 for facility ID UhQMDsDfW85, Facility: Kitayunjwa Health Centre III
+Data sent successfully to DHIS2 for facility ID uja4Tx4IR8w, Facility: Buwaiswa Health Centre III
+Data sent successfully to DHIS2 for facility ID Uo8eU7Qrx0v, Facility: Ruhama Health Centre III
+Data sent successfully to DHIS2 for facility ID uPAnapLaFYh, Facility: Nankandulo Health Centre IV
+Data sent successfully to DHIS2 for facility ID uqk1XgbxpCg, Facility: Yivu Abea Health Centre III
+Data sent successfully to DHIS2 for facility ID URmGWanfgpn, Facility: Dranya Health Centre III
+Data sent successfully to DHIS2 for facility ID uVzb26lWq53, Facility: Tara Health Centre III
+Data sent successfully to DHIS2 for facility ID v2XOGwTwMGe, Facility: Kirongero Health Centre II
+Data sent successfully to DHIS2 for facility ID vA1hYI0OEFl, Facility: Rwamabondo Health Centre II
+Data sent successfully to DHIS2 for facility ID VCIAE5Bta3H, Facility: St. Mary's Maternity & Nursing Home
+Data sent successfully to DHIS2 for facility ID VCZvyMMtuNQ, Facility: Konko Health Centre II
+Data sent successfully to DHIS2 for facility ID Vi3ibjRtMzU, Facility: Buwama Health Centre III
+Data sent successfully to DHIS2 for facility ID vkpREtlXQxQ, Facility: Nkozi Hospital
+Data sent successfully to DHIS2 for facility ID VLi163AL9A0, Facility: Palabek-Kal Health Centre IV
+Data sent successfully to DHIS2 for facility ID vnIPfEUR8ce, Facility: Olwal Health Centre III
+Data sent successfully to DHIS2 for facility ID VomjjgKAFjr, Facility: Apaa Health Centre II
+Data sent successfully to DHIS2 for facility ID vQMNtz05zAJ, Facility: Nyakyera Health Centre III
+Data sent successfully to DHIS2 for facility ID VXTxQRCiH2C, Facility: Nswanjere Health Centre III
+Data sent successfully to DHIS2 for facility ID VZjIOTAddHZ, Facility: Goopi Health Centre II
+Data sent successfully to DHIS2 for facility ID W2DisxptRpM, Facility: Kibeho Health Centre II
+Data sent successfully to DHIS2 for facility ID W65MlPtBlmF, Facility: Kityerera Health Centre IV
+Data sent successfully to DHIS2 for facility ID WfEOwsEOMbc, Facility: Buziika Health Centre II
+Data sent successfully to DHIS2 for facility ID WHVbek1utH5, Facility: Lama Health Centre III
+Data sent successfully to DHIS2 for facility ID wVUi8BXxKkY, Facility: Kitwe Health Centre II
+Data sent successfully to DHIS2 for facility ID WyB0okmGKma, Facility: Bwalula Health Centre II
+Data sent successfully to DHIS2 for facility ID X00gYQ3tjMD, Facility: Laropi Health Centre III
+Data sent successfully to DHIS2 for facility ID X0BZOCXmDkj, Facility: Balawoli Health Centre III
+Data sent successfully to DHIS2 for facility ID X1RkzMg2Hn1, Facility: Bunjako Health Centre III
+Data sent successfully to DHIS2 for facility ID x4EXo9kapwP, Facility: Liko Health Centre III
+Data sent successfully to DHIS2 for facility ID x4fr2px73Bq, Facility: Acokara Health Centre II
+Data sent successfully to DHIS2 for facility ID xbM4diuk1dB, Facility: Bulesa Health Centre III
+Data sent successfully to DHIS2 for facility ID XdXAfIaLuld, Facility: Awer Health Centre II
+Data sent successfully to DHIS2 for facility ID xEsy0BxwCmQ, Facility: Kibumbiro Health Centre II
+Data sent successfully to DHIS2 for facility ID Xh5eLA8vMYG, Facility: Kiige HC II
+Data sent successfully to DHIS2 for facility ID XK9RFXZJrFx, Facility: Busuyi Health Centre II
+Data sent successfully to DHIS2 for facility ID XsLMulDu2aw, Facility: Kanoni Health Centre III
+Data sent successfully to DHIS2 for facility ID XtoI9233bvR, Facility: St. Luke Muterere Health Centre II
+Data sent successfully to DHIS2 for facility ID XvNvwaRITIS, Facility: Nawandyo Health Centre III
+Data sent successfully to DHIS2 for facility ID xvsvbPNHC2I, Facility: Jagusi Health Centre III
+Data sent successfully to DHIS2 for facility ID Xvt0nRCNyrC, Facility: Ngomanene Health Centre III
+Data sent successfully to DHIS2 for facility ID xxukfjPreUj, Facility: Palenga Health Centre II
+Data sent successfully to DHIS2 for facility ID xXyZHTAldd9, Facility: Namasagali Health Centre III
+Data sent successfully to DHIS2 for facility ID Y1aTreUsUZn, Facility: Otici Health Centre II
+Data sent successfully to DHIS2 for facility ID y1S7Kh163t9, Facility: Mother Francisca Lechner Health Centre IV
+Data sent successfully to DHIS2 for facility ID YbtIUFv6PHM, Facility: Buluguyi Health Centre III
+Data sent successfully to DHIS2 for facility ID yGBkMoiQXWX, Facility: Panyanga Health Centre II
+Data sent successfully to DHIS2 for facility ID ygGN15RPkJR, Facility: Nankoma Health Centre IV
+Data sent successfully to DHIS2 for facility ID yj1g0uy0fXZ, Facility: Kayogera Health Centre II
+Data sent successfully to DHIS2 for facility ID yJNtR9S3CZZ, Facility: Bugiri Buwunga Health Centre III
+Data sent successfully to DHIS2 for facility ID YKW2twSLRHF, Facility: Rwanda Health Centre III
+Data sent successfully to DHIS2 for facility ID yM6f1QC8fPA, Facility: Lugazi Health Centre II
+Data sent successfully to DHIS2 for facility ID YxeL7JN6HKe, Facility: Muduuma Health Centre III
+Data sent successfully to DHIS2 for facility ID z035qUkEmvF, Facility: Akwangi Health Centre II
+Data sent successfully to DHIS2 for facility ID Z2X4PeBAA5G, Facility: Kasambira Health Centre II
+Data sent successfully to DHIS2 for facility ID Z3lDSWMFUyS, Facility: Madi-Opei Health Centre IV
+Data sent successfully to DHIS2 for facility ID z7Cf9DgHZWX, Facility: Namulesa Health Centre II
+Data sent successfully to DHIS2 for facility ID ZApo7f6AObR, Facility: Namusenwa Health Centre II
+Data sent successfully to DHIS2 for facility ID zardxfXWmkO, Facility: Awoo Health Centre III
+Data sent successfully to DHIS2 for facility ID ZcC2OKgHUBc, Facility: Nindye Health Centre III
+Data sent successfully to DHIS2 for facility ID zhFVYJiWUOS, Facility: Tongolo Health Centre II
+Data sent successfully to DHIS2 for facility ID Zix3B1axH9x, Facility: Kamuli Mission Hospital
+Data sent successfully to DHIS2 for facility ID zJxJF8dOBan, Facility: Kituna Health Centre II
+Data sent successfully to DHIS2 for facility ID ZQ98MZqjZIl, Facility: Alao Health Centre II
+Data sent successfully to DHIS2 for facility ID ZQGEaiVBKkA, Facility: Pagwata Health Centre II
+Data sent successfully to DHIS2 for facility ID zS5zIF13N8K, Facility: Nabirama Health Centre II
+Data sent successfully to DHIS2 for facility ID ZubUtSX9erU, Facility: Abeso Health Centre II
+Data sent successfully to DHIS2 for facility ID zyI8GDUVYdE, Facility: Namwendwa Health Centre IV
